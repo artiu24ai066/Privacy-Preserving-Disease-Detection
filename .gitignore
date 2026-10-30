@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Dataset images
+dataset/HAM10000_images_part_1/
+dataset/HAM10000_images_part_2/
+dataset/HAM10000_metadata.csv
+
+# Generated outputs and model artifacts
+outputs/
+*.pt
+*.pth
+*.ckpt
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
