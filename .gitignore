@@ -20,7 +20,6 @@ dataset/HAM10000_images_part_2/
 dataset/HAM10000_metadata.csv
 
 # Generated outputs and model artifacts
-outputs/
 *.pt
 *.pth
 *.ckpt

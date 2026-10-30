@@ -1,0 +1,2 @@
+experiment,communication_rounds,local_epochs,accuracy,macro_f1,epsilon_hospital_1,epsilon_hospital_2,epsilon_hospital_3,max_client_epsilon,delta
+Non-IID Federated DP,1,2,0.6614634146341464,0.11374884657327407,1.4678978151802977,1.4291988245558793,1.4441088860490725,1.4678978151802977,1e-05

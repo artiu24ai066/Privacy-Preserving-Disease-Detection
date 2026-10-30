@@ -1,0 +1,7 @@
+experiment,validation_accuracy_percent,validation_macro_f1
+Centralized baseline,68.39,0.2591
+Centralized moderate weighting,67.9,0.3482
+IID Federated,67.8,0.2204
+Non-IID Federated,66.73,0.1706
+Centralized DP,66.15,0.1137
+Non-IID Federated DP (1 round),66.15,0.1137

@@ -1,0 +1,1000 @@
+lesion_id,image_id,dx,dx_type,age,sex,localization,image_path,label
+HAM_0007571,ISIC_0029836,bkl,histo,70.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029836.jpg,2
+HAM_0007571,ISIC_0032129,bkl,histo,70.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032129.jpg,2
+HAM_0000351,ISIC_0024324,bkl,histo,85.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024324.jpg,2
+HAM_0000351,ISIC_0029559,bkl,histo,85.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029559.jpg,2
+HAM_0007125,ISIC_0025016,bkl,histo,75.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025016.jpg,2
+HAM_0007125,ISIC_0029147,bkl,histo,75.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029147.jpg,2
+HAM_0003569,ISIC_0027960,bkl,histo,75.0,male,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027960.jpg,2
+HAM_0003569,ISIC_0026955,bkl,histo,75.0,male,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026955.jpg,2
+HAM_0003021,ISIC_0031468,bkl,histo,75.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031468.jpg,2
+HAM_0003021,ISIC_0030926,bkl,histo,75.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030926.jpg,2
+HAM_0004569,ISIC_0031495,bkl,histo,40.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031495.jpg,2
+HAM_0004569,ISIC_0026104,bkl,histo,40.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026104.jpg,2
+HAM_0001728,ISIC_0033539,bkl,histo,60.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033539.jpg,2
+HAM_0003021,ISIC_0032283,bkl,histo,75.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032283.jpg,2
+HAM_0003021,ISIC_0030005,bkl,histo,75.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030005.jpg,2
+HAM_0001473,ISIC_0029022,bkl,histo,70.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029022.jpg,2
+HAM_0003326,ISIC_0032463,bkl,histo,75.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032463.jpg,2
+HAM_0003326,ISIC_0025548,bkl,histo,75.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025548.jpg,2
+HAM_0006085,ISIC_0032949,bkl,histo,85.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032949.jpg,2
+HAM_0006085,ISIC_0033322,bkl,histo,85.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033322.jpg,2
+HAM_0006085,ISIC_0033127,bkl,histo,85.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033127.jpg,2
+HAM_0004075,ISIC_0030276,bkl,histo,60.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030276.jpg,2
+HAM_0003768,ISIC_0029929,bkl,histo,80.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029929.jpg,2
+HAM_0000802,ISIC_0033437,bkl,histo,60.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033437.jpg,2
+HAM_0000802,ISIC_0033195,bkl,histo,60.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033195.jpg,2
+HAM_0000802,ISIC_0032553,bkl,histo,60.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032553.jpg,2
+HAM_0004091,ISIC_0033587,bkl,histo,75.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033587.jpg,2
+HAM_0004091,ISIC_0032675,bkl,histo,75.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032675.jpg,2
+HAM_0006281,ISIC_0033507,bkl,histo,75.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033507.jpg,2
+HAM_0006281,ISIC_0033791,bkl,histo,75.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033791.jpg,2
+HAM_0004406,ISIC_0034125,bkl,histo,80.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034125.jpg,2
+HAM_0004406,ISIC_0033060,bkl,histo,80.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033060.jpg,2
+HAM_0004491,ISIC_0025157,bkl,histo,45.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025157.jpg,2
+HAM_0007431,ISIC_0031620,bkl,histo,50.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031620.jpg,2
+HAM_0001738,ISIC_0027218,bkl,histo,50.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027218.jpg,2
+HAM_0006697,ISIC_0030272,bkl,histo,50.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030272.jpg,2
+HAM_0005440,ISIC_0027139,bkl,histo,65.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027139.jpg,2
+HAM_0004566,ISIC_0029394,bkl,histo,55.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029394.jpg,2
+HAM_0004690,ISIC_0027374,bkl,histo,70.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027374.jpg,2
+HAM_0007260,ISIC_0028336,bkl,histo,60.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028336.jpg,2
+HAM_0007529,ISIC_0026607,bkl,histo,50.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026607.jpg,2
+HAM_0001546,ISIC_0027584,bkl,histo,45.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027584.jpg,2
+HAM_0003768,ISIC_0026634,bkl,histo,80.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026634.jpg,2
+HAM_0000245,ISIC_0027454,bkl,histo,75.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027454.jpg,2
+HAM_0001389,ISIC_0026775,bkl,histo,75.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026775.jpg,2
+HAM_0000844,ISIC_0024773,bkl,histo,70.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024773.jpg,2
+HAM_0004491,ISIC_0028846,bkl,histo,45.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028846.jpg,2
+HAM_0004491,ISIC_0026159,bkl,histo,45.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026159.jpg,2
+HAM_0000198,ISIC_0026923,bkl,histo,75.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026923.jpg,2
+HAM_0001325,ISIC_0030522,bkl,histo,70.0,male,scalp,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030522.jpg,2
+HAM_0005606,ISIC_0025928,bkl,histo,85.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025928.jpg,2
+HAM_0005527,ISIC_0031819,bkl,histo,50.0,male,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031819.jpg,2
+HAM_0001057,ISIC_0032045,bkl,histo,75.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032045.jpg,2
+HAM_0001057,ISIC_0024381,bkl,histo,75.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024381.jpg,2
+HAM_0003899,ISIC_0029991,bkl,histo,75.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029991.jpg,2
+HAM_0005869,ISIC_0029249,bkl,histo,75.0,female,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029249.jpg,2
+HAM_0005869,ISIC_0030822,bkl,histo,75.0,female,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030822.jpg,2
+HAM_0001815,ISIC_0024970,bkl,histo,85.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024970.jpg,2
+HAM_0007591,ISIC_0025351,bkl,histo,75.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025351.jpg,2
+HAM_0002592,ISIC_0029311,bkl,histo,60.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029311.jpg,2
+HAM_0003605,ISIC_0026895,bkl,histo,55.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026895.jpg,2
+HAM_0004801,ISIC_0030365,bkl,histo,50.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030365.jpg,2
+HAM_0005913,ISIC_0028640,bkl,histo,70.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028640.jpg,2
+HAM_0001024,ISIC_0027192,bkl,histo,45.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027192.jpg,2
+HAM_0001024,ISIC_0030683,bkl,histo,45.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030683.jpg,2
+HAM_0001914,ISIC_0029126,bkl,histo,60.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029126.jpg,2
+HAM_0001914,ISIC_0028702,bkl,histo,60.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028702.jpg,2
+HAM_0003605,ISIC_0029841,bkl,histo,55.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029841.jpg,2
+HAM_0002357,ISIC_0031783,bkl,histo,70.0,male,neck,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031783.jpg,2
+HAM_0002357,ISIC_0030137,bkl,histo,70.0,male,neck,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030137.jpg,2
+HAM_0004494,ISIC_0030458,bkl,histo,60.0,female,neck,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030458.jpg,2
+HAM_0006466,ISIC_0024495,bkl,histo,45.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024495.jpg,2
+HAM_0001486,ISIC_0029384,bkl,histo,40.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029384.jpg,2
+HAM_0004494,ISIC_0031459,bkl,histo,60.0,female,neck,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031459.jpg,2
+HAM_0006201,ISIC_0024420,bkl,histo,55.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024420.jpg,2
+HAM_0006201,ISIC_0030801,bkl,histo,55.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030801.jpg,2
+HAM_0003938,ISIC_0030231,bkl,histo,55.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030231.jpg,2
+HAM_0001292,ISIC_0031951,bkl,histo,60.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031951.jpg,2
+HAM_0007029,ISIC_0030608,bkl,histo,45.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030608.jpg,2
+HAM_0003605,ISIC_0029849,bkl,histo,55.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029849.jpg,2
+HAM_0004660,ISIC_0027504,bkl,histo,80.0,male,scalp,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027504.jpg,2
+HAM_0001292,ISIC_0027094,bkl,histo,60.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027094.jpg,2
+HAM_0001815,ISIC_0026663,bkl,histo,85.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026663.jpg,2
+HAM_0001878,ISIC_0025434,bkl,histo,60.0,female,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025434.jpg,2
+HAM_0001878,ISIC_0028165,bkl,histo,60.0,female,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028165.jpg,2
+HAM_0002192,ISIC_0027388,bkl,histo,80.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027388.jpg,2
+HAM_0001763,ISIC_0029029,bkl,histo,60.0,female,hand,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029029.jpg,2
+HAM_0000999,ISIC_0029927,bkl,confocal,70.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029927.jpg,2
+HAM_0000999,ISIC_0026567,bkl,confocal,70.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026567.jpg,2
+HAM_0005967,ISIC_0032395,bkl,confocal,65.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032395.jpg,2
+HAM_0005967,ISIC_0032031,bkl,confocal,65.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032031.jpg,2
+HAM_0003574,ISIC_0024877,bkl,confocal,50.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024877.jpg,2
+HAM_0003574,ISIC_0030835,bkl,confocal,50.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030835.jpg,2
+HAM_0002903,ISIC_0027737,bkl,confocal,35.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027737.jpg,2
+HAM_0002903,ISIC_0024774,bkl,confocal,35.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024774.jpg,2
+HAM_0003789,ISIC_0026016,bkl,confocal,55.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026016.jpg,2
+HAM_0003789,ISIC_0029505,bkl,confocal,55.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029505.jpg,2
+HAM_0000835,ISIC_0025378,bkl,confocal,55.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025378.jpg,2
+HAM_0000835,ISIC_0030394,bkl,confocal,55.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030394.jpg,2
+HAM_0003789,ISIC_0031277,bkl,confocal,55.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031277.jpg,2
+HAM_0000835,ISIC_0027270,bkl,confocal,55.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027270.jpg,2
+HAM_0003789,ISIC_0031853,bkl,confocal,55.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031853.jpg,2
+HAM_0000835,ISIC_0031329,bkl,confocal,55.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031329.jpg,2
+HAM_0007590,ISIC_0031528,bkl,confocal,40.0,male,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031528.jpg,2
+HAM_0007590,ISIC_0028615,bkl,confocal,40.0,male,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028615.jpg,2
+HAM_0006755,ISIC_0025339,bkl,confocal,65.0,male,scalp,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025339.jpg,2
+HAM_0003030,ISIC_0028876,bkl,consensus,75.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028876.jpg,2
+HAM_0003030,ISIC_0029527,bkl,consensus,75.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029527.jpg,2
+HAM_0003789,ISIC_0029464,bkl,confocal,55.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029464.jpg,2
+HAM_0000835,ISIC_0026530,bkl,confocal,55.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026530.jpg,2
+HAM_0003789,ISIC_0024915,bkl,confocal,55.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024915.jpg,2
+HAM_0000835,ISIC_0024409,bkl,confocal,55.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024409.jpg,2
+HAM_0003010,ISIC_0029924,bkl,consensus,55.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029924.jpg,2
+HAM_0001678,ISIC_0027831,bkl,consensus,60.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027831.jpg,2
+HAM_0002821,ISIC_0028479,bkl,consensus,75.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028479.jpg,2
+HAM_0004768,ISIC_0027559,bkl,consensus,35.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027559.jpg,2
+HAM_0004768,ISIC_0024408,bkl,consensus,35.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024408.jpg,2
+HAM_0003787,ISIC_0030630,bkl,consensus,70.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030630.jpg,2
+HAM_0006277,ISIC_0031428,bkl,consensus,55.0,male,scalp,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031428.jpg,2
+HAM_0005463,ISIC_0032315,bkl,consensus,45.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032315.jpg,2
+HAM_0005463,ISIC_0028411,bkl,consensus,45.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028411.jpg,2
+HAM_0005442,ISIC_0034197,bkl,consensus,70.0,male,scalp,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034197.jpg,2
+HAM_0005442,ISIC_0034057,bkl,consensus,70.0,male,scalp,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034057.jpg,2
+HAM_0004788,ISIC_0032835,bkl,consensus,85.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032835.jpg,2
+HAM_0004788,ISIC_0033480,bkl,consensus,85.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033480.jpg,2
+HAM_0006528,ISIC_0034296,bkl,consensus,70.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034296.jpg,2
+HAM_0006528,ISIC_0032763,bkl,consensus,70.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032763.jpg,2
+HAM_0006528,ISIC_0034291,bkl,consensus,70.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034291.jpg,2
+HAM_0002792,ISIC_0033169,bkl,consensus,80.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033169.jpg,2
+HAM_0001561,ISIC_0032740,bkl,consensus,,unknown,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032740.jpg,2
+HAM_0003393,ISIC_0032113,bkl,consensus,45.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032113.jpg,2
+HAM_0007395,ISIC_0031133,bkl,consensus,70.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031133.jpg,2
+HAM_0003287,ISIC_0026846,bkl,consensus,80.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026846.jpg,2
+HAM_0000121,ISIC_0027025,bkl,consensus,70.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027025.jpg,2
+HAM_0003049,ISIC_0027041,bkl,consensus,75.0,male,hand,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027041.jpg,2
+HAM_0002034,ISIC_0027954,bkl,consensus,5.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027954.jpg,2
+HAM_0001399,ISIC_0030207,bkl,consensus,75.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030207.jpg,2
+HAM_0000069,ISIC_0030226,bkl,consensus,35.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030226.jpg,2
+HAM_0002742,ISIC_0025654,bkl,consensus,70.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025654.jpg,2
+HAM_0000296,ISIC_0031761,bkl,consensus,35.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031761.jpg,2
+HAM_0000465,ISIC_0030583,bkl,consensus,35.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030583.jpg,2
+HAM_0003290,ISIC_0030757,df,histo,80.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030757.jpg,3
+HAM_0003290,ISIC_0031358,df,histo,80.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031358.jpg,3
+HAM_0003290,ISIC_0031735,df,histo,80.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031735.jpg,3
+HAM_0001177,ISIC_0025154,df,histo,55.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025154.jpg,3
+HAM_0005584,ISIC_0032613,df,consensus,25.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032613.jpg,3
+HAM_0005584,ISIC_0033256,df,consensus,25.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033256.jpg,3
+HAM_0004648,ISIC_0025911,df,consensus,65.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025911.jpg,3
+HAM_0004065,ISIC_0026629,df,consensus,65.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026629.jpg,3
+HAM_0000757,ISIC_0025314,df,consensus,35.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025314.jpg,3
+HAM_0001811,ISIC_0028069,mel,histo,35.0,female,neck,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028069.jpg,4
+HAM_0001811,ISIC_0028579,mel,histo,35.0,female,neck,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028579.jpg,4
+HAM_0004607,ISIC_0026150,mel,histo,50.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026150.jpg,4
+HAM_0004607,ISIC_0031642,mel,histo,50.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031642.jpg,4
+HAM_0003802,ISIC_0032308,mel,histo,75.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032308.jpg,4
+HAM_0003031,ISIC_0030445,mel,histo,75.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030445.jpg,4
+HAM_0004979,ISIC_0026596,mel,histo,85.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026596.jpg,4
+HAM_0004979,ISIC_0028056,mel,histo,85.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028056.jpg,4
+HAM_0005588,ISIC_0025219,mel,histo,80.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025219.jpg,4
+HAM_0005588,ISIC_0026458,mel,histo,80.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026458.jpg,4
+HAM_0003212,ISIC_0028519,mel,histo,80.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028519.jpg,4
+HAM_0003212,ISIC_0024767,mel,histo,80.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024767.jpg,4
+HAM_0006522,ISIC_0026369,mel,histo,30.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026369.jpg,4
+HAM_0006522,ISIC_0030521,mel,histo,30.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030521.jpg,4
+HAM_0001600,ISIC_0024675,mel,histo,65.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024675.jpg,4
+HAM_0001600,ISIC_0025891,mel,histo,65.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025891.jpg,4
+HAM_0003683,ISIC_0027352,mel,histo,75.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027352.jpg,4
+HAM_0003683,ISIC_0029558,mel,histo,75.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029558.jpg,4
+HAM_0000233,ISIC_0028219,mel,histo,45.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028219.jpg,4
+HAM_0000233,ISIC_0026314,mel,histo,45.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026314.jpg,4
+HAM_0001734,ISIC_0033496,mel,histo,55.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033496.jpg,4
+HAM_0001734,ISIC_0032927,mel,histo,55.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032927.jpg,4
+HAM_0001734,ISIC_0024865,mel,histo,55.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024865.jpg,4
+HAM_0007073,ISIC_0025035,mel,histo,70.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025035.jpg,4
+HAM_0002032,ISIC_0030575,mel,histo,25.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030575.jpg,4
+HAM_0005490,ISIC_0033931,mel,histo,70.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033931.jpg,4
+HAM_0001412,ISIC_0033834,mel,histo,75.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033834.jpg,4
+HAM_0001412,ISIC_0033678,mel,histo,75.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033678.jpg,4
+HAM_0003983,ISIC_0033975,mel,histo,85.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033975.jpg,4
+HAM_0003983,ISIC_0033278,mel,histo,85.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033278.jpg,4
+HAM_0003983,ISIC_0033679,mel,histo,85.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033679.jpg,4
+HAM_0007234,ISIC_0033362,mel,histo,85.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033362.jpg,4
+HAM_0000048,ISIC_0033902,mel,histo,75.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033902.jpg,4
+HAM_0000048,ISIC_0032774,mel,histo,75.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032774.jpg,4
+HAM_0002671,ISIC_0033068,mel,histo,80.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033068.jpg,4
+HAM_0002671,ISIC_0034218,mel,histo,80.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034218.jpg,4
+HAM_0002671,ISIC_0034263,mel,histo,80.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034263.jpg,4
+HAM_0001928,ISIC_0033725,mel,histo,55.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033725.jpg,4
+HAM_0001928,ISIC_0032537,mel,histo,55.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032537.jpg,4
+HAM_0001928,ISIC_0033287,mel,histo,55.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033287.jpg,4
+HAM_0000322,ISIC_0033942,mel,histo,65.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033942.jpg,4
+HAM_0000322,ISIC_0033473,mel,histo,65.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033473.jpg,4
+HAM_0000319,ISIC_0029209,mel,histo,50.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029209.jpg,4
+HAM_0006545,ISIC_0033241,mel,histo,50.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033241.jpg,4
+HAM_0006545,ISIC_0032598,mel,histo,50.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032598.jpg,4
+HAM_0006545,ISIC_0034289,mel,histo,50.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034289.jpg,4
+HAM_0000107,ISIC_0033299,mel,histo,85.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033299.jpg,4
+HAM_0006189,ISIC_0033269,mel,histo,55.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033269.jpg,4
+HAM_0004304,ISIC_0033324,mel,histo,85.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033324.jpg,4
+HAM_0004304,ISIC_0034316,mel,histo,85.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034316.jpg,4
+HAM_0004304,ISIC_0033710,mel,histo,85.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033710.jpg,4
+HAM_0004687,ISIC_0033754,mel,histo,70.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033754.jpg,4
+HAM_0004687,ISIC_0032938,mel,histo,70.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032938.jpg,4
+HAM_0004853,ISIC_0034101,mel,histo,80.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034101.jpg,4
+HAM_0004853,ISIC_0030333,mel,histo,80.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030333.jpg,4
+HAM_0004853,ISIC_0032695,mel,histo,80.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032695.jpg,4
+HAM_0004754,ISIC_0033198,mel,histo,65.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033198.jpg,4
+HAM_0004754,ISIC_0032790,mel,histo,65.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032790.jpg,4
+HAM_0004754,ISIC_0033245,mel,histo,65.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033245.jpg,4
+HAM_0003225,ISIC_0033670,mel,histo,65.0,male,neck,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033670.jpg,4
+HAM_0003225,ISIC_0029740,mel,histo,65.0,male,neck,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029740.jpg,4
+HAM_0003225,ISIC_0033593,mel,histo,65.0,male,neck,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033593.jpg,4
+HAM_0001570,ISIC_0032872,mel,histo,55.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032872.jpg,4
+HAM_0001570,ISIC_0033178,mel,histo,55.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033178.jpg,4
+HAM_0003176,ISIC_0028148,mel,histo,85.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028148.jpg,4
+HAM_0005926,ISIC_0027069,mel,histo,75.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027069.jpg,4
+HAM_0000373,ISIC_0024806,mel,histo,70.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024806.jpg,4
+HAM_0006467,ISIC_0027622,mel,histo,40.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027622.jpg,4
+HAM_0001444,ISIC_0026352,mel,histo,40.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026352.jpg,4
+HAM_0001444,ISIC_0024688,mel,histo,40.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024688.jpg,4
+HAM_0002711,ISIC_0027669,mel,histo,65.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027669.jpg,4
+HAM_0002711,ISIC_0031795,mel,histo,65.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031795.jpg,4
+HAM_0000775,ISIC_0025097,mel,histo,55.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025097.jpg,4
+HAM_0000775,ISIC_0031666,mel,histo,55.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031666.jpg,4
+HAM_0003176,ISIC_0030756,mel,histo,85.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030756.jpg,4
+HAM_0006088,ISIC_0028760,mel,histo,30.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028760.jpg,4
+HAM_0000373,ISIC_0027407,mel,histo,70.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027407.jpg,4
+HAM_0003531,ISIC_0031999,mel,histo,40.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031999.jpg,4
+HAM_0004979,ISIC_0032245,mel,histo,85.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032245.jpg,4
+HAM_0004171,ISIC_0024644,mel,histo,85.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024644.jpg,4
+HAM_0005533,ISIC_0027065,mel,histo,85.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027065.jpg,4
+HAM_0006257,ISIC_0029843,mel,histo,70.0,male,neck,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029843.jpg,4
+HAM_0000910,ISIC_0028017,mel,histo,50.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028017.jpg,4
+HAM_0006196,ISIC_0025248,mel,histo,70.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025248.jpg,4
+HAM_0005006,ISIC_0031146,mel,histo,20.0,female,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031146.jpg,4
+HAM_0007488,ISIC_0029157,mel,histo,60.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029157.jpg,4
+HAM_0007488,ISIC_0024952,mel,histo,60.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024952.jpg,4
+HAM_0007498,ISIC_0025546,mel,histo,55.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025546.jpg,4
+HAM_0001657,ISIC_0031529,mel,histo,40.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031529.jpg,4
+HAM_0001551,ISIC_0027420,mel,histo,60.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027420.jpg,4
+HAM_0002493,ISIC_0024323,mel,histo,50.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024323.jpg,4
+HAM_0002493,ISIC_0027436,mel,histo,50.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027436.jpg,4
+HAM_0001877,ISIC_0025409,mel,histo,80.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025409.jpg,4
+HAM_0000593,ISIC_0024679,mel,histo,50.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024679.jpg,4
+HAM_0000593,ISIC_0031401,mel,histo,50.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031401.jpg,4
+HAM_0004559,ISIC_0028220,mel,histo,60.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028220.jpg,4
+HAM_0007293,ISIC_0026735,mel,histo,85.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026735.jpg,4
+HAM_0005909,ISIC_0026045,mel,histo,65.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026045.jpg,4
+HAM_0007498,ISIC_0028156,mel,histo,55.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028156.jpg,4
+HAM_0003504,ISIC_0028075,mel,histo,55.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028075.jpg,4
+HAM_0003504,ISIC_0026823,mel,histo,55.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026823.jpg,4
+HAM_0000910,ISIC_0027797,mel,histo,50.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027797.jpg,4
+HAM_0004765,ISIC_0031217,vasc,histo,15.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031217.jpg,6
+HAM_0004765,ISIC_0025599,vasc,histo,15.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025599.jpg,6
+HAM_0002218,ISIC_0025578,vasc,histo,5.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025578.jpg,6
+HAM_0002218,ISIC_0029448,vasc,histo,5.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029448.jpg,6
+HAM_0006156,ISIC_0027903,vasc,histo,45.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027903.jpg,6
+HAM_0000934,ISIC_0031706,vasc,consensus,60.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031706.jpg,6
+HAM_0004097,ISIC_0025677,vasc,consensus,50.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025677.jpg,6
+HAM_0007113,ISIC_0027522,vasc,consensus,55.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027522.jpg,6
+HAM_0004653,ISIC_0028431,vasc,consensus,50.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028431.jpg,6
+HAM_0000286,ISIC_0029099,vasc,consensus,70.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029099.jpg,6
+HAM_0004871,ISIC_0030261,bcc,histo,70.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030261.jpg,1
+HAM_0000393,ISIC_0031943,bcc,histo,40.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031943.jpg,1
+HAM_0000393,ISIC_0027865,bcc,histo,40.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027865.jpg,1
+HAM_0001326,ISIC_0031824,bcc,histo,60.0,male,scalp,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031824.jpg,1
+HAM_0001326,ISIC_0030145,bcc,histo,60.0,male,scalp,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030145.jpg,1
+HAM_0001900,ISIC_0025557,bcc,histo,80.0,female,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025557.jpg,1
+HAM_0001900,ISIC_0028323,bcc,histo,80.0,female,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028323.jpg,1
+HAM_0006384,ISIC_0031272,bcc,histo,80.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031272.jpg,1
+HAM_0000998,ISIC_0027544,bcc,histo,20.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027544.jpg,1
+HAM_0004083,ISIC_0032652,bcc,histo,60.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032652.jpg,1
+HAM_0004083,ISIC_0033551,bcc,histo,60.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033551.jpg,1
+HAM_0004083,ISIC_0033571,bcc,histo,60.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033571.jpg,1
+HAM_0000879,ISIC_0033203,bcc,histo,65.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033203.jpg,1
+HAM_0000879,ISIC_0033366,bcc,histo,65.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033366.jpg,1
+HAM_0000879,ISIC_0032816,bcc,histo,65.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032816.jpg,1
+HAM_0006586,ISIC_0034123,bcc,histo,80.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034123.jpg,1
+HAM_0006586,ISIC_0034026,bcc,histo,80.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034026.jpg,1
+HAM_0007248,ISIC_0025102,bcc,histo,70.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025102.jpg,1
+HAM_0007248,ISIC_0032850,bcc,histo,70.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032850.jpg,1
+HAM_0007248,ISIC_0030712,bcc,histo,70.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030712.jpg,1
+HAM_0001711,ISIC_0028677,bcc,histo,70.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028677.jpg,1
+HAM_0005842,ISIC_0027601,bcc,histo,75.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027601.jpg,1
+HAM_0002818,ISIC_0028570,bcc,histo,85.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028570.jpg,1
+HAM_0003853,ISIC_0030644,bcc,histo,85.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030644.jpg,1
+HAM_0004285,ISIC_0029129,bcc,histo,85.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029129.jpg,1
+HAM_0005599,ISIC_0030511,bcc,histo,70.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030511.jpg,1
+HAM_0000457,ISIC_0026855,bcc,histo,70.0,female,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026855.jpg,1
+HAM_0000612,ISIC_0026968,bcc,histo,75.0,female,neck,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026968.jpg,1
+HAM_0004300,ISIC_0025266,bcc,histo,65.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025266.jpg,1
+HAM_0001573,ISIC_0024799,bcc,histo,45.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024799.jpg,1
+HAM_0003716,ISIC_0024897,bcc,histo,75.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024897.jpg,1
+HAM_0004827,ISIC_0027819,bcc,histo,50.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027819.jpg,1
+HAM_0007346,ISIC_0027425,bcc,histo,75.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027425.jpg,1
+HAM_0002313,ISIC_0024461,bcc,histo,80.0,female,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024461.jpg,1
+HAM_0002313,ISIC_0030526,bcc,histo,80.0,female,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030526.jpg,1
+HAM_0002313,ISIC_0025530,bcc,histo,80.0,female,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025530.jpg,1
+HAM_0002666,ISIC_0024564,bcc,histo,65.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024564.jpg,1
+HAM_0002666,ISIC_0025322,bcc,histo,65.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025322.jpg,1
+HAM_0006658,ISIC_0026154,bcc,histo,85.0,male,neck,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026154.jpg,1
+HAM_0000807,ISIC_0032164,bcc,histo,65.0,female,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032164.jpg,1
+HAM_0001573,ISIC_0028542,bcc,histo,45.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028542.jpg,1
+HAM_0005026,ISIC_0028978,bcc,histo,40.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028978.jpg,1
+HAM_0005026,ISIC_0028728,bcc,histo,40.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028728.jpg,1
+HAM_0001335,ISIC_0026555,nv,follow_up,50.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026555.jpg,5
+HAM_0002202,ISIC_0027315,nv,follow_up,50.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027315.jpg,5
+HAM_0004408,ISIC_0026824,nv,follow_up,50.0,male,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026824.jpg,5
+HAM_0004290,ISIC_0031184,nv,follow_up,40.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031184.jpg,5
+HAM_0007193,ISIC_0025398,nv,follow_up,45.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025398.jpg,5
+HAM_0002514,ISIC_0026768,nv,follow_up,55.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026768.jpg,5
+HAM_0005487,ISIC_0031486,nv,follow_up,45.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031486.jpg,5
+HAM_0006498,ISIC_0028446,nv,follow_up,45.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028446.jpg,5
+HAM_0007203,ISIC_0031845,nv,follow_up,55.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031845.jpg,5
+HAM_0000750,ISIC_0027974,nv,follow_up,45.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027974.jpg,5
+HAM_0001391,ISIC_0024584,nv,follow_up,45.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024584.jpg,5
+HAM_0006703,ISIC_0031833,nv,follow_up,45.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031833.jpg,5
+HAM_0002508,ISIC_0030428,nv,follow_up,50.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030428.jpg,5
+HAM_0001931,ISIC_0026755,nv,follow_up,45.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026755.jpg,5
+HAM_0007619,ISIC_0026948,nv,follow_up,45.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026948.jpg,5
+HAM_0005939,ISIC_0024327,nv,follow_up,50.0,female,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024327.jpg,5
+HAM_0000472,ISIC_0028339,nv,follow_up,50.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028339.jpg,5
+HAM_0003064,ISIC_0029966,nv,follow_up,40.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029966.jpg,5
+HAM_0004863,ISIC_0024945,nv,follow_up,40.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024945.jpg,5
+HAM_0002775,ISIC_0024407,nv,follow_up,40.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024407.jpg,5
+HAM_0001888,ISIC_0026806,nv,follow_up,35.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026806.jpg,5
+HAM_0001494,ISIC_0026621,nv,follow_up,45.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026621.jpg,5
+HAM_0005226,ISIC_0029290,nv,follow_up,45.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029290.jpg,5
+HAM_0005753,ISIC_0028034,nv,follow_up,55.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028034.jpg,5
+HAM_0000101,ISIC_0032100,nv,follow_up,75.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032100.jpg,5
+HAM_0006306,ISIC_0026242,nv,follow_up,50.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026242.jpg,5
+HAM_0002322,ISIC_0027912,nv,follow_up,50.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027912.jpg,5
+HAM_0003704,ISIC_0029463,nv,follow_up,35.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029463.jpg,5
+HAM_0002473,ISIC_0025922,nv,follow_up,45.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025922.jpg,5
+HAM_0007204,ISIC_0025205,nv,follow_up,45.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025205.jpg,5
+HAM_0005094,ISIC_0027816,nv,follow_up,45.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027816.jpg,5
+HAM_0004489,ISIC_0031229,nv,follow_up,45.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031229.jpg,5
+HAM_0003008,ISIC_0029729,nv,follow_up,75.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029729.jpg,5
+HAM_0000058,ISIC_0030302,nv,follow_up,45.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030302.jpg,5
+HAM_0000132,ISIC_0032453,nv,follow_up,70.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032453.jpg,5
+HAM_0001307,ISIC_0025041,nv,follow_up,55.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025041.jpg,5
+HAM_0005462,ISIC_0028025,nv,follow_up,55.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028025.jpg,5
+HAM_0006871,ISIC_0026836,nv,follow_up,40.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026836.jpg,5
+HAM_0004841,ISIC_0028694,nv,follow_up,40.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028694.jpg,5
+HAM_0000339,ISIC_0025044,nv,follow_up,40.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025044.jpg,5
+HAM_0004116,ISIC_0026613,nv,follow_up,40.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026613.jpg,5
+HAM_0002080,ISIC_0029619,nv,follow_up,45.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029619.jpg,5
+HAM_0004286,ISIC_0029410,nv,follow_up,60.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029410.jpg,5
+HAM_0001582,ISIC_0031771,nv,follow_up,55.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031771.jpg,5
+HAM_0007527,ISIC_0032426,nv,follow_up,45.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032426.jpg,5
+HAM_0004861,ISIC_0031153,nv,follow_up,35.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031153.jpg,5
+HAM_0007067,ISIC_0027251,nv,follow_up,35.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027251.jpg,5
+HAM_0001572,ISIC_0028933,nv,follow_up,35.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028933.jpg,5
+HAM_0000473,ISIC_0027356,nv,follow_up,35.0,male,neck,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027356.jpg,5
+HAM_0000858,ISIC_0030944,nv,follow_up,35.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030944.jpg,5
+HAM_0001431,ISIC_0028142,nv,follow_up,35.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028142.jpg,5
+HAM_0003457,ISIC_0024887,nv,follow_up,35.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024887.jpg,5
+HAM_0001145,ISIC_0030400,nv,follow_up,50.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030400.jpg,5
+HAM_0002900,ISIC_0024985,nv,follow_up,75.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024985.jpg,5
+HAM_0004009,ISIC_0024856,nv,follow_up,75.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024856.jpg,5
+HAM_0007469,ISIC_0030049,nv,follow_up,35.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030049.jpg,5
+HAM_0003576,ISIC_0027106,nv,follow_up,45.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027106.jpg,5
+HAM_0002997,ISIC_0029972,nv,follow_up,35.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029972.jpg,5
+HAM_0004269,ISIC_0025003,nv,follow_up,50.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025003.jpg,5
+HAM_0003108,ISIC_0027166,nv,follow_up,50.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027166.jpg,5
+HAM_0004834,ISIC_0025328,nv,follow_up,20.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025328.jpg,5
+HAM_0001420,ISIC_0025544,nv,follow_up,20.0,female,neck,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025544.jpg,5
+HAM_0004256,ISIC_0027472,nv,follow_up,20.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027472.jpg,5
+HAM_0001376,ISIC_0031437,nv,follow_up,40.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031437.jpg,5
+HAM_0000435,ISIC_0026620,nv,follow_up,40.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026620.jpg,5
+HAM_0001519,ISIC_0031661,nv,follow_up,55.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031661.jpg,5
+HAM_0005813,ISIC_0026051,nv,follow_up,20.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026051.jpg,5
+HAM_0001540,ISIC_0028299,nv,follow_up,60.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028299.jpg,5
+HAM_0000518,ISIC_0030943,nv,follow_up,45.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030943.jpg,5
+HAM_0002930,ISIC_0026994,nv,follow_up,45.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026994.jpg,5
+HAM_0002778,ISIC_0026540,nv,follow_up,45.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026540.jpg,5
+HAM_0004757,ISIC_0025607,nv,follow_up,30.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025607.jpg,5
+HAM_0003841,ISIC_0028349,nv,follow_up,30.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028349.jpg,5
+HAM_0004964,ISIC_0028062,nv,follow_up,30.0,male,scalp,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028062.jpg,5
+HAM_0005219,ISIC_0027935,nv,follow_up,35.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027935.jpg,5
+HAM_0000228,ISIC_0025146,nv,follow_up,50.0,female,hand,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025146.jpg,5
+HAM_0006659,ISIC_0028160,nv,follow_up,55.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028160.jpg,5
+HAM_0003992,ISIC_0028821,nv,follow_up,55.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028821.jpg,5
+HAM_0005671,ISIC_0029697,nv,follow_up,55.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029697.jpg,5
+HAM_0007095,ISIC_0030374,nv,follow_up,60.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030374.jpg,5
+HAM_0006997,ISIC_0028375,nv,follow_up,35.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028375.jpg,5
+HAM_0002144,ISIC_0031682,nv,follow_up,35.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031682.jpg,5
+HAM_0003657,ISIC_0026740,nv,follow_up,65.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026740.jpg,5
+HAM_0007383,ISIC_0026812,nv,follow_up,60.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026812.jpg,5
+HAM_0004252,ISIC_0030461,nv,follow_up,55.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030461.jpg,5
+HAM_0005259,ISIC_0030174,nv,follow_up,50.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030174.jpg,5
+HAM_0000023,ISIC_0026144,nv,follow_up,40.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026144.jpg,5
+HAM_0000031,ISIC_0028177,nv,follow_up,45.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028177.jpg,5
+HAM_0003948,ISIC_0025806,nv,follow_up,55.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025806.jpg,5
+HAM_0007022,ISIC_0026364,nv,follow_up,55.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026364.jpg,5
+HAM_0005550,ISIC_0030407,nv,follow_up,55.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030407.jpg,5
+HAM_0004404,ISIC_0025822,nv,follow_up,55.0,male,neck,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025822.jpg,5
+HAM_0003411,ISIC_0024346,nv,follow_up,50.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024346.jpg,5
+HAM_0006448,ISIC_0028912,nv,follow_up,50.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028912.jpg,5
+HAM_0000265,ISIC_0027283,nv,follow_up,50.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027283.jpg,5
+HAM_0005253,ISIC_0026715,nv,follow_up,55.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026715.jpg,5
+HAM_0004230,ISIC_0024585,nv,follow_up,45.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024585.jpg,5
+HAM_0000735,ISIC_0029492,nv,follow_up,40.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029492.jpg,5
+HAM_0005377,ISIC_0028936,nv,follow_up,65.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028936.jpg,5
+HAM_0004634,ISIC_0032454,nv,follow_up,65.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032454.jpg,5
+HAM_0002779,ISIC_0026515,nv,follow_up,45.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026515.jpg,5
+HAM_0005677,ISIC_0032399,nv,follow_up,40.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032399.jpg,5
+HAM_0001543,ISIC_0029639,nv,follow_up,60.0,female,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029639.jpg,5
+HAM_0001766,ISIC_0026591,nv,follow_up,55.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026591.jpg,5
+HAM_0005714,ISIC_0026308,nv,follow_up,55.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026308.jpg,5
+HAM_0003071,ISIC_0026000,nv,follow_up,80.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026000.jpg,5
+HAM_0007424,ISIC_0030560,nv,follow_up,80.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030560.jpg,5
+HAM_0001798,ISIC_0030141,nv,follow_up,50.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030141.jpg,5
+HAM_0006935,ISIC_0026628,nv,follow_up,50.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026628.jpg,5
+HAM_0006369,ISIC_0029688,nv,follow_up,55.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029688.jpg,5
+HAM_0000017,ISIC_0025894,nv,follow_up,50.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025894.jpg,5
+HAM_0000587,ISIC_0025379,nv,follow_up,85.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025379.jpg,5
+HAM_0007388,ISIC_0031693,nv,follow_up,75.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031693.jpg,5
+HAM_0005890,ISIC_0027653,nv,follow_up,60.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027653.jpg,5
+HAM_0002953,ISIC_0025126,nv,follow_up,45.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025126.jpg,5
+HAM_0004148,ISIC_0026503,nv,follow_up,55.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026503.jpg,5
+HAM_0002634,ISIC_0028392,nv,follow_up,50.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028392.jpg,5
+HAM_0005920,ISIC_0026727,nv,follow_up,80.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026727.jpg,5
+HAM_0001408,ISIC_0031004,nv,follow_up,80.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031004.jpg,5
+HAM_0001432,ISIC_0024393,nv,follow_up,80.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024393.jpg,5
+HAM_0000251,ISIC_0025404,nv,follow_up,80.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025404.jpg,5
+HAM_0003511,ISIC_0024321,nv,follow_up,35.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024321.jpg,5
+HAM_0005917,ISIC_0032272,nv,follow_up,50.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032272.jpg,5
+HAM_0005990,ISIC_0032320,nv,follow_up,50.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032320.jpg,5
+HAM_0006010,ISIC_0028695,nv,follow_up,75.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028695.jpg,5
+HAM_0003298,ISIC_0031535,nv,follow_up,50.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031535.jpg,5
+HAM_0003577,ISIC_0024307,nv,follow_up,50.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024307.jpg,5
+HAM_0004026,ISIC_0030357,nv,follow_up,50.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030357.jpg,5
+HAM_0007509,ISIC_0027542,nv,follow_up,75.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027542.jpg,5
+HAM_0004471,ISIC_0027353,nv,follow_up,50.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027353.jpg,5
+HAM_0006811,ISIC_0024794,nv,follow_up,55.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024794.jpg,5
+HAM_0006768,ISIC_0028284,nv,follow_up,55.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028284.jpg,5
+HAM_0006798,ISIC_0024685,nv,follow_up,55.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024685.jpg,5
+HAM_0000550,ISIC_0024306,nv,follow_up,45.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024306.jpg,5
+HAM_0000962,ISIC_0028674,nv,follow_up,60.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028674.jpg,5
+HAM_0005764,ISIC_0030073,nv,follow_up,60.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030073.jpg,5
+HAM_0002200,ISIC_0025951,nv,follow_up,55.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025951.jpg,5
+HAM_0006656,ISIC_0028192,nv,follow_up,45.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028192.jpg,5
+HAM_0007565,ISIC_0028241,nv,follow_up,70.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028241.jpg,5
+HAM_0000739,ISIC_0025561,nv,follow_up,40.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025561.jpg,5
+HAM_0006204,ISIC_0029806,nv,follow_up,60.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029806.jpg,5
+HAM_0002542,ISIC_0025817,nv,follow_up,55.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025817.jpg,5
+HAM_0003338,ISIC_0029722,nv,follow_up,35.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029722.jpg,5
+HAM_0002550,ISIC_0027682,nv,follow_up,35.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027682.jpg,5
+HAM_0002633,ISIC_0031525,nv,follow_up,45.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031525.jpg,5
+HAM_0006797,ISIC_0025754,nv,follow_up,65.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025754.jpg,5
+HAM_0003274,ISIC_0031348,nv,follow_up,40.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031348.jpg,5
+HAM_0000491,ISIC_0028207,nv,follow_up,45.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028207.jpg,5
+HAM_0000487,ISIC_0032268,nv,follow_up,45.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032268.jpg,5
+HAM_0004626,ISIC_0026904,nv,follow_up,55.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026904.jpg,5
+HAM_0002636,ISIC_0031782,nv,follow_up,45.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031782.jpg,5
+HAM_0006063,ISIC_0026975,nv,follow_up,45.0,female,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026975.jpg,5
+HAM_0000131,ISIC_0030769,nv,follow_up,35.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030769.jpg,5
+HAM_0003074,ISIC_0029816,nv,follow_up,35.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029816.jpg,5
+HAM_0007610,ISIC_0030855,nv,follow_up,45.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030855.jpg,5
+HAM_0006259,ISIC_0027785,nv,follow_up,45.0,female,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027785.jpg,5
+HAM_0007371,ISIC_0026002,nv,follow_up,60.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026002.jpg,5
+HAM_0003837,ISIC_0028850,nv,follow_up,40.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028850.jpg,5
+HAM_0004672,ISIC_0026550,nv,follow_up,40.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026550.jpg,5
+HAM_0002642,ISIC_0031467,nv,follow_up,45.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031467.jpg,5
+HAM_0003656,ISIC_0032213,nv,follow_up,55.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032213.jpg,5
+HAM_0000096,ISIC_0029071,nv,follow_up,50.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029071.jpg,5
+HAM_0002667,ISIC_0024388,nv,follow_up,30.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024388.jpg,5
+HAM_0006248,ISIC_0030087,nv,follow_up,60.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030087.jpg,5
+HAM_0002709,ISIC_0025773,nv,follow_up,70.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025773.jpg,5
+HAM_0002039,ISIC_0029663,nv,follow_up,50.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029663.jpg,5
+HAM_0000196,ISIC_0032377,nv,follow_up,55.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032377.jpg,5
+HAM_0003823,ISIC_0027081,nv,follow_up,50.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027081.jpg,5
+HAM_0002420,ISIC_0028796,nv,follow_up,35.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028796.jpg,5
+HAM_0002978,ISIC_0030215,nv,follow_up,35.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030215.jpg,5
+HAM_0005815,ISIC_0030327,nv,follow_up,40.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030327.jpg,5
+HAM_0006676,ISIC_0026221,nv,follow_up,45.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026221.jpg,5
+HAM_0006029,ISIC_0025935,nv,follow_up,55.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025935.jpg,5
+HAM_0000199,ISIC_0026127,nv,follow_up,55.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026127.jpg,5
+HAM_0000221,ISIC_0026344,nv,follow_up,40.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026344.jpg,5
+HAM_0006440,ISIC_0028074,nv,follow_up,40.0,male,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028074.jpg,5
+HAM_0005516,ISIC_0028748,nv,follow_up,50.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028748.jpg,5
+HAM_0002340,ISIC_0029047,nv,follow_up,70.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029047.jpg,5
+HAM_0006356,ISIC_0029732,nv,follow_up,65.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029732.jpg,5
+HAM_0001286,ISIC_0031846,nv,follow_up,75.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031846.jpg,5
+HAM_0005922,ISIC_0025896,nv,follow_up,60.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025896.jpg,5
+HAM_0006814,ISIC_0032264,nv,follow_up,40.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032264.jpg,5
+HAM_0002863,ISIC_0024769,nv,follow_up,50.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024769.jpg,5
+HAM_0001099,ISIC_0027955,nv,follow_up,50.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027955.jpg,5
+HAM_0000677,ISIC_0025494,nv,follow_up,55.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025494.jpg,5
+HAM_0007515,ISIC_0025333,nv,follow_up,50.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025333.jpg,5
+HAM_0001161,ISIC_0028691,nv,follow_up,50.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028691.jpg,5
+HAM_0005189,ISIC_0025762,nv,follow_up,35.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025762.jpg,5
+HAM_0002263,ISIC_0030252,nv,follow_up,25.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030252.jpg,5
+HAM_0005928,ISIC_0031574,nv,follow_up,55.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031574.jpg,5
+HAM_0006783,ISIC_0025624,nv,follow_up,55.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025624.jpg,5
+HAM_0005494,ISIC_0027161,nv,follow_up,55.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027161.jpg,5
+HAM_0000445,ISIC_0032010,nv,follow_up,50.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032010.jpg,5
+HAM_0002126,ISIC_0028563,nv,follow_up,65.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028563.jpg,5
+HAM_0004926,ISIC_0024785,nv,follow_up,45.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024785.jpg,5
+HAM_0002950,ISIC_0028176,nv,follow_up,50.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028176.jpg,5
+HAM_0004616,ISIC_0030084,nv,follow_up,45.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030084.jpg,5
+HAM_0001110,ISIC_0024413,nv,follow_up,50.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024413.jpg,5
+HAM_0003503,ISIC_0027555,nv,follow_up,60.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027555.jpg,5
+HAM_0007537,ISIC_0025420,nv,follow_up,55.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025420.jpg,5
+HAM_0007319,ISIC_0029144,nv,follow_up,55.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029144.jpg,5
+HAM_0006286,ISIC_0027619,nv,follow_up,40.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027619.jpg,5
+HAM_0006206,ISIC_0030438,nv,follow_up,40.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030438.jpg,5
+HAM_0004045,ISIC_0030939,nv,follow_up,45.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030939.jpg,5
+HAM_0000605,ISIC_0030212,nv,follow_up,45.0,female,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030212.jpg,5
+HAM_0002549,ISIC_0030043,nv,follow_up,45.0,female,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030043.jpg,5
+HAM_0002858,ISIC_0029990,nv,follow_up,45.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029990.jpg,5
+HAM_0006142,ISIC_0026509,nv,follow_up,35.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026509.jpg,5
+HAM_0004390,ISIC_0031210,nv,follow_up,35.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031210.jpg,5
+HAM_0006959,ISIC_0032286,nv,follow_up,35.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032286.jpg,5
+HAM_0001639,ISIC_0026160,nv,follow_up,55.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026160.jpg,5
+HAM_0003041,ISIC_0024558,nv,follow_up,70.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024558.jpg,5
+HAM_0002638,ISIC_0028096,nv,follow_up,70.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028096.jpg,5
+HAM_0006948,ISIC_0026463,nv,follow_up,50.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026463.jpg,5
+HAM_0003888,ISIC_0028672,nv,follow_up,50.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028672.jpg,5
+HAM_0002125,ISIC_0025502,nv,follow_up,50.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025502.jpg,5
+HAM_0005399,ISIC_0030474,nv,follow_up,60.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030474.jpg,5
+HAM_0005167,ISIC_0031780,nv,follow_up,40.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031780.jpg,5
+HAM_0001569,ISIC_0030994,nv,follow_up,45.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030994.jpg,5
+HAM_0002941,ISIC_0031028,nv,follow_up,45.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031028.jpg,5
+HAM_0001471,ISIC_0031843,nv,follow_up,40.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031843.jpg,5
+HAM_0006317,ISIC_0029934,nv,follow_up,50.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029934.jpg,5
+HAM_0002285,ISIC_0026309,nv,follow_up,75.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026309.jpg,5
+HAM_0001081,ISIC_0026278,nv,follow_up,50.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026278.jpg,5
+HAM_0004729,ISIC_0026198,nv,follow_up,40.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026198.jpg,5
+HAM_0005702,ISIC_0030381,nv,follow_up,45.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030381.jpg,5
+HAM_0002091,ISIC_0025857,nv,follow_up,80.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025857.jpg,5
+HAM_0002445,ISIC_0030879,nv,follow_up,75.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030879.jpg,5
+HAM_0004019,ISIC_0029629,nv,follow_up,45.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029629.jpg,5
+HAM_0004752,ISIC_0028549,nv,follow_up,45.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028549.jpg,5
+HAM_0002590,ISIC_0025010,nv,follow_up,70.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025010.jpg,5
+HAM_0002310,ISIC_0025848,nv,follow_up,60.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025848.jpg,5
+HAM_0004875,ISIC_0028268,nv,follow_up,60.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028268.jpg,5
+HAM_0005346,ISIC_0028171,nv,follow_up,75.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028171.jpg,5
+HAM_0001658,ISIC_0030001,nv,follow_up,75.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030001.jpg,5
+HAM_0001660,ISIC_0027078,nv,follow_up,75.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027078.jpg,5
+HAM_0001516,ISIC_0027830,nv,follow_up,70.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027830.jpg,5
+HAM_0001320,ISIC_0028638,nv,follow_up,35.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028638.jpg,5
+HAM_0000447,ISIC_0024817,nv,follow_up,40.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024817.jpg,5
+HAM_0007087,ISIC_0031425,nv,follow_up,40.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031425.jpg,5
+HAM_0001426,ISIC_0029154,nv,follow_up,40.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029154.jpg,5
+HAM_0007564,ISIC_0028119,nv,follow_up,45.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028119.jpg,5
+HAM_0006165,ISIC_0029964,nv,follow_up,55.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029964.jpg,5
+HAM_0006865,ISIC_0029842,nv,follow_up,55.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029842.jpg,5
+HAM_0001184,ISIC_0028330,nv,follow_up,55.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028330.jpg,5
+HAM_0000830,ISIC_0030634,nv,follow_up,55.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030634.jpg,5
+HAM_0001204,ISIC_0030185,nv,follow_up,55.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030185.jpg,5
+HAM_0003796,ISIC_0030696,nv,follow_up,50.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030696.jpg,5
+HAM_0002847,ISIC_0024353,nv,follow_up,50.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024353.jpg,5
+HAM_0007175,ISIC_0029442,nv,follow_up,55.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029442.jpg,5
+HAM_0003153,ISIC_0025565,nv,follow_up,40.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025565.jpg,5
+HAM_0004173,ISIC_0030637,nv,follow_up,85.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030637.jpg,5
+HAM_0006167,ISIC_0027845,nv,follow_up,50.0,female,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027845.jpg,5
+HAM_0004085,ISIC_0028471,nv,follow_up,55.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028471.jpg,5
+HAM_0002175,ISIC_0028369,nv,follow_up,55.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028369.jpg,5
+HAM_0006929,ISIC_0026542,nv,follow_up,55.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026542.jpg,5
+HAM_0001840,ISIC_0025490,nv,follow_up,55.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025490.jpg,5
+HAM_0002727,ISIC_0025459,nv,follow_up,50.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025459.jpg,5
+HAM_0007136,ISIC_0030563,nv,follow_up,40.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030563.jpg,5
+HAM_0002840,ISIC_0027424,nv,follow_up,45.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027424.jpg,5
+HAM_0000621,ISIC_0031101,nv,follow_up,45.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031101.jpg,5
+HAM_0006867,ISIC_0032147,nv,follow_up,30.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032147.jpg,5
+HAM_0003070,ISIC_0032323,nv,follow_up,50.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032323.jpg,5
+HAM_0006394,ISIC_0027635,nv,follow_up,50.0,male,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027635.jpg,5
+HAM_0000254,ISIC_0026939,nv,follow_up,45.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026939.jpg,5
+HAM_0003204,ISIC_0028564,nv,follow_up,45.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028564.jpg,5
+HAM_0007450,ISIC_0027340,nv,follow_up,45.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027340.jpg,5
+HAM_0001156,ISIC_0030811,nv,follow_up,45.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030811.jpg,5
+HAM_0002849,ISIC_0032229,nv,follow_up,80.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032229.jpg,5
+HAM_0004220,ISIC_0027787,nv,follow_up,40.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027787.jpg,5
+HAM_0006819,ISIC_0025590,nv,follow_up,40.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025590.jpg,5
+HAM_0007062,ISIC_0029116,nv,follow_up,50.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029116.jpg,5
+HAM_0000177,ISIC_0025820,nv,follow_up,50.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025820.jpg,5
+HAM_0002674,ISIC_0029646,nv,follow_up,20.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029646.jpg,5
+HAM_0003319,ISIC_0026033,nv,follow_up,60.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026033.jpg,5
+HAM_0003702,ISIC_0029800,nv,follow_up,35.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029800.jpg,5
+HAM_0007279,ISIC_0025405,nv,follow_up,50.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025405.jpg,5
+HAM_0002468,ISIC_0028018,nv,follow_up,40.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028018.jpg,5
+HAM_0003163,ISIC_0029327,nv,follow_up,70.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029327.jpg,5
+HAM_0004438,ISIC_0029712,nv,follow_up,45.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029712.jpg,5
+HAM_0000939,ISIC_0028620,nv,follow_up,35.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028620.jpg,5
+HAM_0004661,ISIC_0026808,nv,follow_up,55.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026808.jpg,5
+HAM_0001925,ISIC_0027583,nv,follow_up,45.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027583.jpg,5
+HAM_0004018,ISIC_0028112,nv,follow_up,50.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028112.jpg,5
+HAM_0000538,ISIC_0030650,nv,follow_up,45.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030650.jpg,5
+HAM_0004072,ISIC_0032130,nv,follow_up,60.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032130.jpg,5
+HAM_0005222,ISIC_0026636,nv,follow_up,70.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026636.jpg,5
+HAM_0003339,ISIC_0030715,nv,follow_up,50.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030715.jpg,5
+HAM_0003098,ISIC_0030498,nv,follow_up,80.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030498.jpg,5
+HAM_0004460,ISIC_0028784,nv,follow_up,65.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028784.jpg,5
+HAM_0006486,ISIC_0026880,nv,follow_up,25.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026880.jpg,5
+HAM_0001664,ISIC_0025217,nv,follow_up,50.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025217.jpg,5
+HAM_0001709,ISIC_0030364,nv,follow_up,45.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030364.jpg,5
+HAM_0003196,ISIC_0025475,nv,follow_up,45.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025475.jpg,5
+HAM_0000248,ISIC_0024667,nv,follow_up,50.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024667.jpg,5
+HAM_0002837,ISIC_0025859,nv,follow_up,50.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025859.jpg,5
+HAM_0004361,ISIC_0030515,nv,follow_up,45.0,male,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030515.jpg,5
+HAM_0004403,ISIC_0028006,nv,follow_up,45.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028006.jpg,5
+HAM_0000600,ISIC_0028311,nv,follow_up,45.0,male,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028311.jpg,5
+HAM_0007218,ISIC_0025006,nv,follow_up,40.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025006.jpg,5
+HAM_0007481,ISIC_0026837,nv,follow_up,55.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026837.jpg,5
+HAM_0000543,ISIC_0030776,nv,follow_up,50.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030776.jpg,5
+HAM_0003471,ISIC_0025284,nv,follow_up,75.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025284.jpg,5
+HAM_0007143,ISIC_0028841,nv,follow_up,50.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028841.jpg,5
+HAM_0005473,ISIC_0026050,nv,follow_up,50.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026050.jpg,5
+HAM_0005233,ISIC_0026289,nv,follow_up,35.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026289.jpg,5
+HAM_0004492,ISIC_0026026,nv,follow_up,45.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026026.jpg,5
+HAM_0005667,ISIC_0032394,nv,follow_up,40.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032394.jpg,5
+HAM_0002288,ISIC_0027803,nv,follow_up,70.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027803.jpg,5
+HAM_0001521,ISIC_0031860,nv,follow_up,40.0,male,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031860.jpg,5
+HAM_0001413,ISIC_0032104,nv,follow_up,45.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032104.jpg,5
+HAM_0002910,ISIC_0031010,nv,follow_up,45.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031010.jpg,5
+HAM_0003024,ISIC_0024768,nv,follow_up,35.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024768.jpg,5
+HAM_0005118,ISIC_0025357,nv,follow_up,35.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025357.jpg,5
+HAM_0001677,ISIC_0028191,nv,follow_up,35.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028191.jpg,5
+HAM_0003518,ISIC_0025498,nv,follow_up,30.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025498.jpg,5
+HAM_0007580,ISIC_0027877,nv,follow_up,25.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027877.jpg,5
+HAM_0007292,ISIC_0031626,nv,follow_up,45.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031626.jpg,5
+HAM_0005944,ISIC_0030850,nv,follow_up,45.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030850.jpg,5
+HAM_0000736,ISIC_0029954,nv,follow_up,45.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029954.jpg,5
+HAM_0006256,ISIC_0027624,nv,follow_up,45.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027624.jpg,5
+HAM_0003955,ISIC_0026250,nv,follow_up,45.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026250.jpg,5
+HAM_0006331,ISIC_0029229,nv,follow_up,40.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029229.jpg,5
+HAM_0002001,ISIC_0030595,nv,follow_up,40.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030595.jpg,5
+HAM_0001685,ISIC_0027516,nv,follow_up,35.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027516.jpg,5
+HAM_0006264,ISIC_0024350,nv,follow_up,35.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024350.jpg,5
+HAM_0000602,ISIC_0026719,nv,follow_up,35.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026719.jpg,5
+HAM_0001171,ISIC_0032346,nv,follow_up,40.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032346.jpg,5
+HAM_0005054,ISIC_0030676,nv,follow_up,40.0,male,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030676.jpg,5
+HAM_0007041,ISIC_0027341,nv,follow_up,25.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027341.jpg,5
+HAM_0004562,ISIC_0031387,nv,follow_up,45.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031387.jpg,5
+HAM_0002855,ISIC_0026116,nv,follow_up,30.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026116.jpg,5
+HAM_0002292,ISIC_0031183,nv,follow_up,30.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031183.jpg,5
+HAM_0002682,ISIC_0024478,nv,follow_up,45.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024478.jpg,5
+HAM_0001879,ISIC_0024440,nv,follow_up,40.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024440.jpg,5
+HAM_0006688,ISIC_0030699,nv,follow_up,50.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030699.jpg,5
+HAM_0002676,ISIC_0024610,nv,follow_up,45.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024610.jpg,5
+HAM_0001622,ISIC_0032360,nv,follow_up,55.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032360.jpg,5
+HAM_0001867,ISIC_0030136,nv,follow_up,55.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030136.jpg,5
+HAM_0000929,ISIC_0029727,nv,follow_up,40.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029727.jpg,5
+HAM_0002356,ISIC_0030889,nv,follow_up,35.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030889.jpg,5
+HAM_0004329,ISIC_0027866,nv,follow_up,35.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027866.jpg,5
+HAM_0006161,ISIC_0029164,nv,follow_up,65.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029164.jpg,5
+HAM_0006485,ISIC_0024423,nv,follow_up,40.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024423.jpg,5
+HAM_0007061,ISIC_0031433,nv,follow_up,50.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031433.jpg,5
+HAM_0007076,ISIC_0026757,nv,follow_up,35.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026757.jpg,5
+HAM_0002945,ISIC_0029077,nv,follow_up,30.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029077.jpg,5
+HAM_0006682,ISIC_0027778,nv,follow_up,30.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027778.jpg,5
+HAM_0003442,ISIC_0027929,nv,follow_up,45.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027929.jpg,5
+HAM_0003554,ISIC_0027494,nv,follow_up,45.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027494.jpg,5
+HAM_0002237,ISIC_0028053,nv,follow_up,55.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028053.jpg,5
+HAM_0003962,ISIC_0027805,nv,follow_up,35.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027805.jpg,5
+HAM_0004477,ISIC_0026646,nv,follow_up,50.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026646.jpg,5
+HAM_0006263,ISIC_0029447,nv,follow_up,40.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029447.jpg,5
+HAM_0000333,ISIC_0029098,nv,follow_up,40.0,male,hand,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029098.jpg,5
+HAM_0004474,ISIC_0030908,nv,follow_up,40.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030908.jpg,5
+HAM_0000788,ISIC_0030301,nv,follow_up,35.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030301.jpg,5
+HAM_0006695,ISIC_0029224,nv,follow_up,65.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029224.jpg,5
+HAM_0004416,ISIC_0027947,nv,follow_up,50.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027947.jpg,5
+HAM_0001191,ISIC_0028452,nv,follow_up,50.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028452.jpg,5
+HAM_0002220,ISIC_0024942,nv,follow_up,65.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024942.jpg,5
+HAM_0001973,ISIC_0026061,nv,follow_up,65.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026061.jpg,5
+HAM_0000503,ISIC_0029236,nv,follow_up,65.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029236.jpg,5
+HAM_0003550,ISIC_0026334,nv,follow_up,50.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026334.jpg,5
+HAM_0004825,ISIC_0028152,nv,follow_up,50.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028152.jpg,5
+HAM_0004280,ISIC_0030905,nv,follow_up,50.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030905.jpg,5
+HAM_0002927,ISIC_0028012,nv,follow_up,50.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028012.jpg,5
+HAM_0005165,ISIC_0030108,nv,follow_up,50.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030108.jpg,5
+HAM_0004903,ISIC_0025604,nv,follow_up,35.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025604.jpg,5
+HAM_0001379,ISIC_0030618,nv,follow_up,55.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030618.jpg,5
+HAM_0004393,ISIC_0029774,nv,follow_up,55.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029774.jpg,5
+HAM_0005877,ISIC_0029204,nv,follow_up,50.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029204.jpg,5
+HAM_0004995,ISIC_0029869,nv,follow_up,45.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029869.jpg,5
+HAM_0001550,ISIC_0026020,nv,follow_up,45.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026020.jpg,5
+HAM_0001248,ISIC_0025177,nv,histo,20.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025177.jpg,5
+HAM_0001248,ISIC_0027530,nv,histo,20.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027530.jpg,5
+HAM_0003155,ISIC_0028247,nv,histo,25.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028247.jpg,5
+HAM_0003155,ISIC_0028988,nv,histo,25.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028988.jpg,5
+HAM_0003277,ISIC_0026730,nv,histo,30.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026730.jpg,5
+HAM_0003277,ISIC_0026890,nv,histo,30.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026890.jpg,5
+HAM_0000854,ISIC_0029534,nv,histo,65.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029534.jpg,5
+HAM_0000476,ISIC_0028293,nv,histo,70.0,male,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028293.jpg,5
+HAM_0000476,ISIC_0029093,nv,histo,70.0,male,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029093.jpg,5
+HAM_0002946,ISIC_0031663,nv,histo,40.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031663.jpg,5
+HAM_0002946,ISIC_0031883,nv,histo,40.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031883.jpg,5
+HAM_0002314,ISIC_0027662,nv,histo,15.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027662.jpg,5
+HAM_0005188,ISIC_0024824,nv,histo,50.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024824.jpg,5
+HAM_0005188,ISIC_0030666,nv,histo,50.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030666.jpg,5
+HAM_0004663,ISIC_0031560,nv,histo,55.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031560.jpg,5
+HAM_0004663,ISIC_0025809,nv,histo,55.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025809.jpg,5
+HAM_0006397,ISIC_0029475,nv,histo,70.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029475.jpg,5
+HAM_0006397,ISIC_0029894,nv,histo,70.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029894.jpg,5
+HAM_0005484,ISIC_0032443,nv,histo,35.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032443.jpg,5
+HAM_0004869,ISIC_0025370,nv,histo,15.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025370.jpg,5
+HAM_0001975,ISIC_0030930,nv,histo,30.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030930.jpg,5
+HAM_0001975,ISIC_0028488,nv,histo,30.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028488.jpg,5
+HAM_0000324,ISIC_0028528,nv,histo,80.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028528.jpg,5
+HAM_0000324,ISIC_0029945,nv,histo,80.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029945.jpg,5
+HAM_0000230,ISIC_0029720,nv,histo,50.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029720.jpg,5
+HAM_0000230,ISIC_0032150,nv,histo,50.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032150.jpg,5
+HAM_0001680,ISIC_0026303,nv,histo,55.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026303.jpg,5
+HAM_0001680,ISIC_0030125,nv,histo,55.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030125.jpg,5
+HAM_0006185,ISIC_0032309,nv,histo,25.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032309.jpg,5
+HAM_0006185,ISIC_0028759,nv,histo,25.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028759.jpg,5
+HAM_0004761,ISIC_0027548,nv,histo,10.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027548.jpg,5
+HAM_0004761,ISIC_0026826,nv,histo,10.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026826.jpg,5
+HAM_0002106,ISIC_0026186,nv,histo,45.0,male,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026186.jpg,5
+HAM_0002106,ISIC_0025156,nv,histo,45.0,male,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025156.jpg,5
+HAM_0005060,ISIC_0027852,nv,histo,75.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027852.jpg,5
+HAM_0005060,ISIC_0031975,nv,histo,75.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031975.jpg,5
+HAM_0002703,ISIC_0025402,nv,histo,70.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025402.jpg,5
+HAM_0005143,ISIC_0030303,nv,histo,40.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030303.jpg,5
+HAM_0005267,ISIC_0026423,nv,histo,45.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026423.jpg,5
+HAM_0007541,ISIC_0032691,nv,histo,30.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032691.jpg,5
+HAM_0007541,ISIC_0032540,nv,histo,30.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032540.jpg,5
+HAM_0007541,ISIC_0032573,nv,histo,30.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032573.jpg,5
+HAM_0001651,ISIC_0033251,nv,histo,45.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033251.jpg,5
+HAM_0001651,ISIC_0033402,nv,histo,45.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033402.jpg,5
+HAM_0001651,ISIC_0034204,nv,histo,45.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034204.jpg,5
+HAM_0006080,ISIC_0033347,nv,histo,40.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033347.jpg,5
+HAM_0006080,ISIC_0032668,nv,histo,40.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032668.jpg,5
+HAM_0006080,ISIC_0032891,nv,histo,40.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032891.jpg,5
+HAM_0000093,ISIC_0030845,nv,histo,30.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030845.jpg,5
+HAM_0004708,ISIC_0033852,nv,histo,45.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033852.jpg,5
+HAM_0004708,ISIC_0033775,nv,histo,45.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033775.jpg,5
+HAM_0004708,ISIC_0033561,nv,histo,45.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033561.jpg,5
+HAM_0002030,ISIC_0034225,nv,histo,55.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034225.jpg,5
+HAM_0002030,ISIC_0032916,nv,histo,55.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032916.jpg,5
+HAM_0002030,ISIC_0033756,nv,histo,55.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033756.jpg,5
+HAM_0003215,ISIC_0027643,nv,histo,45.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027643.jpg,5
+HAM_0006634,ISIC_0033227,nv,histo,45.0,female,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033227.jpg,5
+HAM_0006634,ISIC_0033365,nv,histo,45.0,female,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033365.jpg,5
+HAM_0005351,ISIC_0032590,nv,histo,20.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032590.jpg,5
+HAM_0005351,ISIC_0033549,nv,histo,20.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033549.jpg,5
+HAM_0005351,ISIC_0033921,nv,histo,20.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033921.jpg,5
+HAM_0002923,ISIC_0033759,nv,histo,40.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033759.jpg,5
+HAM_0002923,ISIC_0034144,nv,histo,40.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034144.jpg,5
+HAM_0002923,ISIC_0032992,nv,histo,40.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032992.jpg,5
+HAM_0000380,ISIC_0024344,nv,histo,85.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024344.jpg,5
+HAM_0000380,ISIC_0025836,nv,histo,85.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025836.jpg,5
+HAM_0005265,ISIC_0033633,nv,histo,45.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033633.jpg,5
+HAM_0005265,ISIC_0034199,nv,histo,45.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034199.jpg,5
+HAM_0005265,ISIC_0032998,nv,histo,45.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032998.jpg,5
+HAM_0006857,ISIC_0033475,nv,histo,40.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033475.jpg,5
+HAM_0006857,ISIC_0033210,nv,histo,40.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033210.jpg,5
+HAM_0006857,ISIC_0033219,nv,histo,40.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033219.jpg,5
+HAM_0004503,ISIC_0033069,nv,histo,60.0,female,ear,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033069.jpg,5
+HAM_0004503,ISIC_0032735,nv,histo,60.0,female,ear,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032735.jpg,5
+HAM_0004503,ISIC_0033840,nv,histo,60.0,female,ear,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033840.jpg,5
+HAM_0005905,ISIC_0034257,nv,histo,50.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034257.jpg,5
+HAM_0000547,ISIC_0033510,nv,histo,55.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033510.jpg,5
+HAM_0000547,ISIC_0033222,nv,histo,55.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033222.jpg,5
+HAM_0000547,ISIC_0032546,nv,histo,55.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032546.jpg,5
+HAM_0005135,ISIC_0032989,nv,histo,15.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032989.jpg,5
+HAM_0005135,ISIC_0033618,nv,histo,15.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033618.jpg,5
+HAM_0005135,ISIC_0033016,nv,histo,15.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033016.jpg,5
+HAM_0001740,ISIC_0032761,nv,histo,30.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032761.jpg,5
+HAM_0001740,ISIC_0033160,nv,histo,30.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033160.jpg,5
+HAM_0001740,ISIC_0033930,nv,histo,30.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033930.jpg,5
+HAM_0001246,ISIC_0032822,nv,histo,40.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032822.jpg,5
+HAM_0001246,ISIC_0033283,nv,histo,40.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033283.jpg,5
+HAM_0001246,ISIC_0033359,nv,histo,40.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033359.jpg,5
+HAM_0001641,ISIC_0033427,nv,histo,60.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033427.jpg,5
+HAM_0001641,ISIC_0033948,nv,histo,60.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033948.jpg,5
+HAM_0001641,ISIC_0033680,nv,histo,60.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033680.jpg,5
+HAM_0006042,ISIC_0034314,nv,histo,50.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034314.jpg,5
+HAM_0006042,ISIC_0034174,nv,histo,50.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034174.jpg,5
+HAM_0006042,ISIC_0033983,nv,histo,50.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033983.jpg,5
+HAM_0001026,ISIC_0033743,nv,histo,20.0,female,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033743.jpg,5
+HAM_0001076,ISIC_0032646,nv,histo,65.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032646.jpg,5
+HAM_0001076,ISIC_0033627,nv,histo,65.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033627.jpg,5
+HAM_0001935,ISIC_0033188,nv,histo,50.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033188.jpg,5
+HAM_0001935,ISIC_0033067,nv,histo,50.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033067.jpg,5
+HAM_0001935,ISIC_0032787,nv,histo,50.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032787.jpg,5
+HAM_0000216,ISIC_0033936,nv,histo,20.0,male,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033936.jpg,5
+HAM_0000216,ISIC_0034121,nv,histo,20.0,male,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034121.jpg,5
+HAM_0000216,ISIC_0034232,nv,histo,20.0,male,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034232.jpg,5
+HAM_0005740,ISIC_0033558,nv,histo,35.0,female,acral,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033558.jpg,5
+HAM_0005740,ISIC_0033590,nv,histo,35.0,female,acral,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033590.jpg,5
+HAM_0005740,ISIC_0033303,nv,histo,35.0,female,acral,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033303.jpg,5
+HAM_0006118,ISIC_0026429,nv,histo,65.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026429.jpg,5
+HAM_0004038,ISIC_0032582,nv,histo,50.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032582.jpg,5
+HAM_0004038,ISIC_0033052,nv,histo,50.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033052.jpg,5
+HAM_0004038,ISIC_0032990,nv,histo,50.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032990.jpg,5
+HAM_0006014,ISIC_0032737,nv,histo,10.0,female,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032737.jpg,5
+HAM_0002898,ISIC_0033179,nv,histo,80.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033179.jpg,5
+HAM_0002898,ISIC_0034251,nv,histo,80.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034251.jpg,5
+HAM_0002898,ISIC_0033721,nv,histo,80.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033721.jpg,5
+HAM_0001509,ISIC_0034295,nv,histo,25.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034295.jpg,5
+HAM_0001509,ISIC_0033929,nv,histo,25.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033929.jpg,5
+HAM_0001509,ISIC_0033044,nv,histo,25.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033044.jpg,5
+HAM_0004303,ISIC_0033737,nv,histo,60.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033737.jpg,5
+HAM_0004303,ISIC_0033932,nv,histo,60.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033932.jpg,5
+HAM_0003130,ISIC_0032708,nv,histo,65.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032708.jpg,5
+HAM_0003130,ISIC_0033574,nv,histo,65.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033574.jpg,5
+HAM_0001739,ISIC_0033845,nv,histo,80.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033845.jpg,5
+HAM_0001739,ISIC_0032884,nv,histo,80.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032884.jpg,5
+HAM_0007052,ISIC_0032752,nv,histo,50.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032752.jpg,5
+HAM_0007052,ISIC_0033794,nv,histo,50.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033794.jpg,5
+HAM_0001175,ISIC_0033462,nv,histo,5.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033462.jpg,5
+HAM_0001175,ISIC_0033191,nv,histo,5.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033191.jpg,5
+HAM_0004581,ISIC_0033508,nv,consensus,55.0,male,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033508.jpg,5
+HAM_0004581,ISIC_0032539,nv,consensus,55.0,male,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032539.jpg,5
+HAM_0004581,ISIC_0032686,nv,consensus,55.0,male,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032686.jpg,5
+HAM_0004590,ISIC_0032824,nv,consensus,55.0,male,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032824.jpg,5
+HAM_0006396,ISIC_0033015,nv,histo,35.0,male,neck,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033015.jpg,5
+HAM_0006396,ISIC_0033928,nv,histo,35.0,male,neck,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033928.jpg,5
+HAM_0000432,ISIC_0033955,nv,histo,45.0,female,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033955.jpg,5
+HAM_0000432,ISIC_0033822,nv,histo,45.0,female,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033822.jpg,5
+HAM_0004063,ISIC_0032896,nv,histo,15.0,female,hand,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032896.jpg,5
+HAM_0004063,ISIC_0034166,nv,histo,15.0,female,hand,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034166.jpg,5
+HAM_0006610,ISIC_0034008,nv,histo,45.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034008.jpg,5
+HAM_0006610,ISIC_0033250,nv,histo,45.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033250.jpg,5
+HAM_0002596,ISIC_0034063,nv,consensus,25.0,male,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034063.jpg,5
+HAM_0002597,ISIC_0033045,nv,consensus,25.0,male,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033045.jpg,5
+HAM_0002596,ISIC_0032848,nv,consensus,25.0,male,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032848.jpg,5
+HAM_0002603,ISIC_0033697,nv,consensus,25.0,male,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033697.jpg,5
+HAM_0001755,ISIC_0029393,nv,histo,25.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029393.jpg,5
+HAM_0001745,ISIC_0025045,nv,histo,65.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025045.jpg,5
+HAM_0001745,ISIC_0030543,nv,histo,65.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030543.jpg,5
+HAM_0005007,ISIC_0024668,nv,histo,25.0,female,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024668.jpg,5
+HAM_0003615,ISIC_0029222,nv,histo,15.0,female,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029222.jpg,5
+HAM_0003525,ISIC_0024653,nv,histo,60.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024653.jpg,5
+HAM_0003525,ISIC_0026141,nv,histo,60.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026141.jpg,5
+HAM_0005605,ISIC_0024361,nv,histo,35.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024361.jpg,5
+HAM_0001041,ISIC_0026886,nv,histo,10.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026886.jpg,5
+HAM_0001041,ISIC_0027942,nv,histo,10.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027942.jpg,5
+HAM_0005840,ISIC_0030773,nv,histo,45.0,female,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030773.jpg,5
+HAM_0005840,ISIC_0028692,nv,histo,45.0,female,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028692.jpg,5
+HAM_0005840,ISIC_0032260,nv,histo,45.0,female,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032260.jpg,5
+HAM_0005319,ISIC_0025469,nv,histo,70.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025469.jpg,5
+HAM_0005319,ISIC_0025133,nv,histo,70.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025133.jpg,5
+HAM_0002324,ISIC_0025381,nv,histo,40.0,male,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025381.jpg,5
+HAM_0000291,ISIC_0028263,nv,histo,75.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028263.jpg,5
+HAM_0000291,ISIC_0028610,nv,histo,75.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028610.jpg,5
+HAM_0000291,ISIC_0031360,nv,histo,75.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031360.jpg,5
+HAM_0001027,ISIC_0031839,nv,histo,45.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031839.jpg,5
+HAM_0001027,ISIC_0026455,nv,histo,45.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026455.jpg,5
+HAM_0001027,ISIC_0028265,nv,histo,45.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028265.jpg,5
+HAM_0007340,ISIC_0028944,nv,histo,40.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028944.jpg,5
+HAM_0003345,ISIC_0032165,nv,histo,70.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032165.jpg,5
+HAM_0003345,ISIC_0024718,nv,histo,70.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024718.jpg,5
+HAM_0003345,ISIC_0024834,nv,histo,70.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024834.jpg,5
+HAM_0000188,ISIC_0027020,nv,histo,40.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027020.jpg,5
+HAM_0000188,ISIC_0028390,nv,histo,40.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028390.jpg,5
+HAM_0000188,ISIC_0029199,nv,histo,40.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029199.jpg,5
+HAM_0007480,ISIC_0024406,nv,histo,35.0,male,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024406.jpg,5
+HAM_0007358,ISIC_0028030,nv,histo,35.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028030.jpg,5
+HAM_0005855,ISIC_0031727,nv,histo,60.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031727.jpg,5
+HAM_0004069,ISIC_0029589,nv,histo,70.0,male,neck,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029589.jpg,5
+HAM_0001427,ISIC_0032163,nv,histo,50.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032163.jpg,5
+HAM_0006210,ISIC_0026454,nv,histo,50.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026454.jpg,5
+HAM_0002916,ISIC_0030581,nv,histo,5.0,female,hand,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030581.jpg,5
+HAM_0007167,ISIC_0026400,nv,histo,75.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026400.jpg,5
+HAM_0005870,ISIC_0030399,nv,histo,30.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030399.jpg,5
+HAM_0001458,ISIC_0032136,nv,histo,45.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032136.jpg,5
+HAM_0005239,ISIC_0028679,nv,histo,25.0,female,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028679.jpg,5
+HAM_0001911,ISIC_0029197,nv,histo,55.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029197.jpg,5
+HAM_0003974,ISIC_0026512,nv,histo,30.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026512.jpg,5
+HAM_0005787,ISIC_0027114,nv,histo,40.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027114.jpg,5
+HAM_0001327,ISIC_0032489,nv,histo,45.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032489.jpg,5
+HAM_0004701,ISIC_0032243,nv,histo,65.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032243.jpg,5
+HAM_0001630,ISIC_0028297,nv,histo,70.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028297.jpg,5
+HAM_0003944,ISIC_0026672,nv,histo,80.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026672.jpg,5
+HAM_0005631,ISIC_0024439,nv,histo,55.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024439.jpg,5
+HAM_0005631,ISIC_0025492,nv,histo,55.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025492.jpg,5
+HAM_0000217,ISIC_0029881,nv,histo,40.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029881.jpg,5
+HAM_0000217,ISIC_0031115,nv,histo,40.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031115.jpg,5
+HAM_0004681,ISIC_0031919,nv,histo,65.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031919.jpg,5
+HAM_0005910,ISIC_0028808,nv,histo,60.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028808.jpg,5
+HAM_0005910,ISIC_0026513,nv,histo,60.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026513.jpg,5
+HAM_0005910,ISIC_0027540,nv,histo,60.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027540.jpg,5
+HAM_0002537,ISIC_0028689,nv,histo,30.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028689.jpg,5
+HAM_0006251,ISIC_0026437,nv,histo,80.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026437.jpg,5
+HAM_0001022,ISIC_0026414,nv,histo,80.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026414.jpg,5
+HAM_0000347,ISIC_0029665,nv,histo,45.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029665.jpg,5
+HAM_0003058,ISIC_0028032,nv,histo,70.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028032.jpg,5
+HAM_0003919,ISIC_0024781,nv,histo,35.0,male,hand,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024781.jpg,5
+HAM_0001961,ISIC_0031076,nv,histo,25.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031076.jpg,5
+HAM_0006118,ISIC_0028400,nv,histo,65.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028400.jpg,5
+HAM_0006094,ISIC_0026998,nv,histo,40.0,female,genital,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026998.jpg,5
+HAM_0006094,ISIC_0032218,nv,histo,40.0,female,genital,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032218.jpg,5
+HAM_0005750,ISIC_0029733,nv,histo,70.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029733.jpg,5
+HAM_0005017,ISIC_0027461,nv,histo,75.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027461.jpg,5
+HAM_0005017,ISIC_0025310,nv,histo,75.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025310.jpg,5
+HAM_0005017,ISIC_0026752,nv,histo,75.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026752.jpg,5
+HAM_0004058,ISIC_0030802,nv,histo,80.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030802.jpg,5
+HAM_0006685,ISIC_0025542,nv,histo,20.0,female,scalp,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025542.jpg,5
+HAM_0000014,ISIC_0025759,nv,histo,40.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025759.jpg,5
+HAM_0000014,ISIC_0031366,nv,histo,40.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031366.jpg,5
+HAM_0000014,ISIC_0025640,nv,histo,40.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025640.jpg,5
+HAM_0005086,ISIC_0030772,nv,histo,30.0,male,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030772.jpg,5
+HAM_0006685,ISIC_0027109,nv,histo,20.0,female,scalp,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027109.jpg,5
+HAM_0006685,ISIC_0029095,nv,histo,20.0,female,scalp,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029095.jpg,5
+HAM_0001702,ISIC_0028874,nv,histo,20.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028874.jpg,5
+HAM_0001702,ISIC_0028592,nv,histo,20.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028592.jpg,5
+HAM_0005086,ISIC_0032311,nv,histo,30.0,male,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032311.jpg,5
+HAM_0005750,ISIC_0030923,nv,histo,70.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030923.jpg,5
+HAM_0002888,ISIC_0029079,nv,histo,50.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029079.jpg,5
+HAM_0002888,ISIC_0025571,nv,histo,50.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025571.jpg,5
+HAM_0002370,ISIC_0028945,nv,histo,65.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028945.jpg,5
+HAM_0002370,ISIC_0030401,nv,histo,65.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030401.jpg,5
+HAM_0003919,ISIC_0031011,nv,histo,35.0,male,hand,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031011.jpg,5
+HAM_0000486,ISIC_0028882,nv,histo,35.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028882.jpg,5
+HAM_0001230,ISIC_0025295,nv,histo,80.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025295.jpg,5
+HAM_0004069,ISIC_0029476,nv,histo,70.0,male,neck,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029476.jpg,5
+HAM_0004638,ISIC_0029344,nv,histo,45.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029344.jpg,5
+HAM_0000500,ISIC_0029145,nv,histo,45.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029145.jpg,5
+HAM_0000500,ISIC_0029441,nv,histo,45.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029441.jpg,5
+HAM_0003919,ISIC_0032344,nv,histo,35.0,male,hand,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032344.jpg,5
+HAM_0007083,ISIC_0027959,nv,histo,85.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027959.jpg,5
+HAM_0007508,ISIC_0025763,nv,histo,50.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025763.jpg,5
+HAM_0004095,ISIC_0029252,nv,histo,65.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029252.jpg,5
+HAM_0004095,ISIC_0026017,nv,histo,65.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026017.jpg,5
+HAM_0001058,ISIC_0024716,nv,histo,75.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024716.jpg,5
+HAM_0007543,ISIC_0024519,nv,consensus,55.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024519.jpg,5
+HAM_0007543,ISIC_0026676,nv,consensus,55.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026676.jpg,5
+HAM_0006599,ISIC_0025141,nv,consensus,60.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025141.jpg,5
+HAM_0006599,ISIC_0026660,nv,consensus,60.0,female,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026660.jpg,5
+HAM_0006936,ISIC_0031829,nv,consensus,15.0,female,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031829.jpg,5
+HAM_0006936,ISIC_0027729,nv,consensus,15.0,female,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027729.jpg,5
+HAM_0002589,ISIC_0028720,nv,consensus,5.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028720.jpg,5
+HAM_0002589,ISIC_0026318,nv,consensus,5.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026318.jpg,5
+HAM_0001902,ISIC_0026480,nv,consensus,5.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026480.jpg,5
+HAM_0001902,ISIC_0029668,nv,consensus,5.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029668.jpg,5
+HAM_0006551,ISIC_0030336,nv,consensus,25.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030336.jpg,5
+HAM_0006551,ISIC_0027970,nv,consensus,25.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027970.jpg,5
+HAM_0003027,ISIC_0031896,nv,consensus,35.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031896.jpg,5
+HAM_0003027,ISIC_0025355,nv,consensus,35.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025355.jpg,5
+HAM_0000378,ISIC_0032388,nv,consensus,5.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032388.jpg,5
+HAM_0000378,ISIC_0031973,nv,consensus,5.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031973.jpg,5
+HAM_0000765,ISIC_0033445,nv,consensus,70.0,male,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033445.jpg,5
+HAM_0006625,ISIC_0034043,nv,consensus,75.0,female,foot,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034043.jpg,5
+HAM_0006925,ISIC_0033589,nv,consensus,50.0,female,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033589.jpg,5
+HAM_0006925,ISIC_0033888,nv,consensus,50.0,female,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033888.jpg,5
+HAM_0006925,ISIC_0033338,nv,consensus,50.0,female,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033338.jpg,5
+HAM_0001930,ISIC_0032880,nv,consensus,50.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032880.jpg,5
+HAM_0001930,ISIC_0032600,nv,consensus,50.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032600.jpg,5
+HAM_0001930,ISIC_0032791,nv,consensus,50.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032791.jpg,5
+HAM_0001442,ISIC_0034053,nv,consensus,40.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034053.jpg,5
+HAM_0007184,ISIC_0033436,nv,consensus,40.0,male,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033436.jpg,5
+HAM_0005434,ISIC_0033457,nv,consensus,55.0,female,trunk,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033457.jpg,5
+HAM_0002413,ISIC_0032543,nv,consensus,30.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032543.jpg,5
+HAM_0001490,ISIC_0033176,nv,consensus,30.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033176.jpg,5
+HAM_0001613,ISIC_0033542,nv,consensus,65.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033542.jpg,5
+HAM_0001613,ISIC_0032748,nv,consensus,65.0,male,abdomen,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032748.jpg,5
+HAM_0004345,ISIC_0033208,nv,consensus,40.0,female,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033208.jpg,5
+HAM_0003817,ISIC_0032800,nv,consensus,40.0,male,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032800.jpg,5
+HAM_0006232,ISIC_0033043,nv,consensus,60.0,male,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033043.jpg,5
+HAM_0004185,ISIC_0032635,nv,consensus,40.0,female,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032635.jpg,5
+HAM_0004212,ISIC_0034114,nv,consensus,40.0,female,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034114.jpg,5
+HAM_0004198,ISIC_0033481,nv,consensus,40.0,female,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033481.jpg,5
+HAM_0004211,ISIC_0034082,nv,consensus,40.0,female,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034082.jpg,5
+HAM_0001147,ISIC_0033375,nv,consensus,,unknown,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033375.jpg,5
+HAM_0000421,ISIC_0034080,nv,consensus,,unknown,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0034080.jpg,5
+HAM_0003696,ISIC_0032945,nv,consensus,,unknown,unknown,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032945.jpg,5
+HAM_0006283,ISIC_0032273,nv,consensus,20.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032273.jpg,5
+HAM_0006283,ISIC_0027924,nv,consensus,20.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027924.jpg,5
+HAM_0000549,ISIC_0029360,akiec,histo,70.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0029360.jpg,0
+HAM_0000549,ISIC_0026152,akiec,histo,70.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026152.jpg,0
+HAM_0006898,ISIC_0029041,akiec,histo,80.0,male,scalp,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0029041.jpg,0
+HAM_0006898,ISIC_0031040,akiec,histo,80.0,male,scalp,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031040.jpg,0
+HAM_0001495,ISIC_0024913,akiec,histo,85.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0024913.jpg,0
+HAM_0006898,ISIC_0030242,akiec,histo,80.0,male,scalp,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030242.jpg,0
+HAM_0007555,ISIC_0030602,akiec,histo,60.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030602.jpg,0
+HAM_0000967,ISIC_0025539,akiec,histo,75.0,male,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025539.jpg,0
+HAM_0006217,ISIC_0031043,akiec,histo,85.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0031043.jpg,0
+HAM_0003586,ISIC_0027678,akiec,histo,60.0,male,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027678.jpg,0
+HAM_0003455,ISIC_0027958,akiec,histo,75.0,male,hand,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027958.jpg,0
+HAM_0003455,ISIC_0027896,akiec,histo,75.0,male,hand,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027896.jpg,0
+HAM_0006560,ISIC_0026729,akiec,histo,50.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026729.jpg,0
+HAM_0005354,ISIC_0026625,akiec,histo,60.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026625.jpg,0
+HAM_0005117,ISIC_0025712,akiec,histo,70.0,female,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025712.jpg,0
+HAM_0002648,ISIC_0027650,akiec,histo,40.0,male,neck,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027650.jpg,0
+HAM_0004558,ISIC_0030341,akiec,histo,70.0,female,back,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030341.jpg,0
+HAM_0001624,ISIC_0032277,akiec,histo,85.0,male,scalp,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032277.jpg,0
+HAM_0005480,ISIC_0026149,akiec,histo,65.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026149.jpg,0
+HAM_0005480,ISIC_0025992,akiec,histo,65.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025992.jpg,0
+HAM_0001048,ISIC_0026525,akiec,histo,45.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026525.jpg,0
+HAM_0001565,ISIC_0026709,akiec,histo,60.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026709.jpg,0
+HAM_0003105,ISIC_0025029,akiec,histo,75.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025029.jpg,0
+HAM_0003105,ISIC_0026388,akiec,histo,75.0,female,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026388.jpg,0
+HAM_0004992,ISIC_0026132,akiec,histo,70.0,male,chest,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026132.jpg,0
+HAM_0001219,ISIC_0028335,akiec,histo,60.0,female,lower extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028335.jpg,0
+HAM_0006560,ISIC_0028063,akiec,histo,50.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028063.jpg,0
+HAM_0006560,ISIC_0027802,akiec,histo,50.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027802.jpg,0
+HAM_0007199,ISIC_0030344,akiec,histo,55.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0030344.jpg,0
+HAM_0007622,ISIC_0027562,akiec,histo,60.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027562.jpg,0
+HAM_0001416,ISIC_0025427,akiec,histo,85.0,male,upper extremity,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0025427.jpg,0
+HAM_0000239,ISIC_0033866,akiec,histo,80.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0033866.jpg,0
+HAM_0003910,ISIC_0026194,akiec,histo,30.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0026194.jpg,0
+HAM_0001036,ISIC_0027588,akiec,histo,50.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0027588.jpg,0
+HAM_0001565,ISIC_0028619,akiec,histo,60.0,female,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_1\ISIC_0028619.jpg,0
+HAM_0000239,ISIC_0032854,akiec,histo,80.0,male,face,C:\Users\Arti Jangid\OneDrive\Desktop\Final-DS-Project\dataset\HAM10000_images_part_2\ISIC_0032854.jpg,0

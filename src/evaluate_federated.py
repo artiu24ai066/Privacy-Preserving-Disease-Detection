@@ -73,7 +73,7 @@ def evaluate_federated_model():
     model = get_model(num_classes=7).to(DEVICE)
 
     model_path = os.path.join(
-        MODEL_DIR, "federated_iid_model.pth"
+        MODEL_DIR, "federated_non_iid_model.pth"
     )
 
     model.load_state_dict(
@@ -86,7 +86,7 @@ def evaluate_federated_model():
 
     model.eval()
 
-    print("IID Federated model loaded successfully!")
+    print("Non-IID Federated model loaded successfully!")
 
     # ------------------------------------------------
     # 3. Generate predictions
@@ -164,7 +164,7 @@ def evaluate_federated_model():
     report_df = pd.DataFrame(report_dict).transpose()
 
     report_path = os.path.join(
-        OUTPUT_DIR, "federated_iid_classification_report.csv"
+        OUTPUT_DIR, "federated_non_iid_classification_report.csv"
     )
 
     report_df.to_csv(report_path)
@@ -197,11 +197,11 @@ def evaluate_federated_model():
         xticks_rotation=45
     )
 
-    plt.title("IID Federated Model - Confusion Matrix")
+    plt.title("Non-IID Federated Model - Confusion Matrix")
     plt.tight_layout()
 
     confusion_path = os.path.join(
-        GRAPH_DIR, "federated_iid_confusion_matrix.png"
+        GRAPH_DIR, "federated_non_iid_confusion_matrix.png"
     )
 
     plt.savefig(confusion_path, dpi=300)

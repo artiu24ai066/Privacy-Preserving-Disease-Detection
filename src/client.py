@@ -6,13 +6,17 @@ import torch
 import torch.nn as nn
 
 from torch.utils.data import DataLoader
+from opacus import PrivacyEngine
 
 from .config import (
     OUTPUT_DIR,
     DEVICE,
     BATCH_SIZE,
     LEARNING_RATE,
-    LOCAL_EPOCHS
+    LOCAL_EPOCHS,
+    NOISE_MULTIPLIER,
+    MAX_GRAD_NORM,
+    DELTA
 )
 
 from .dataset import HAMDataset, train_transform
@@ -22,33 +26,22 @@ from .model import get_model
 def train_client(
     client_id,
     global_model_state,
-    partition_name="iid"
+    partition_name="iid",
+    dp=False,
+    dp_run_id="presentation_run"
 ):
     """
     Train one hospital's local model.
 
-    Parameters
-    ----------
-    client_id : int
-        Hospital/client number: 0, 1, or 2.
+    dp=False: Ordinary local training.
+    dp=True: Local DP-SGD using Opacus.
 
-    global_model_state : dict
-        Current global model parameters received from server.
-
-    partition_name : str
-        Either "iid" or "non_iid".
-
-    Returns
-    -------
-    local_model_state : dict
-        Updated local model parameters.
-
-    num_samples : int
-        Number of training images at this client.
+    Privacy accounting is retained across communication rounds
+    for each client and experiment run.
     """
 
     # ---------------------------------------------
-    # 1. Load this hospital's local dataset
+    # 1. Load hospital's local dataset
     # ---------------------------------------------
 
     csv_path = os.path.join(
@@ -82,15 +75,21 @@ def train_client(
 
     print(f"\nHospital {client_id + 1}")
     print("Training images:", num_samples)
+    print("Differential Privacy:", dp)
 
     # ---------------------------------------------
     # 2. Create local copy of global model
     # ---------------------------------------------
 
     local_model = get_model(num_classes=7).to(DEVICE)
-
     local_model.load_state_dict(global_model_state)
 
+    # Disable inplace ReLU for Opacus compatibility
+    for module in local_model.modules():
+        if isinstance(module, nn.ReLU):
+            module.inplace = False
+
+            
     # ---------------------------------------------
     # 3. Define loss and optimizer
     # ---------------------------------------------
@@ -102,8 +101,67 @@ def train_client(
         lr=LEARNING_RATE
     )
 
+    privacy_engine = None
+    accountant_path = None
+
     # ---------------------------------------------
-    # 4. Local training
+    # 4. Enable DP-SGD if requested
+    # ---------------------------------------------
+
+    if dp:
+
+        privacy_dir = os.path.join(
+            OUTPUT_DIR,
+            "privacy",
+            "federated_dp",
+            dp_run_id,
+            partition_name
+        )
+
+        os.makedirs(privacy_dir, exist_ok=True)
+
+        accountant_path = os.path.join(
+            privacy_dir,
+            f"client_{client_id}_accountant.pt"
+        )
+
+        privacy_engine = PrivacyEngine(
+            accountant="rdp"
+        )
+
+        # Restore previous privacy accounting history
+        # so privacy loss accumulates across rounds.
+        if os.path.exists(accountant_path):
+
+            accountant_state = torch.load(
+                accountant_path,
+                map_location="cpu",
+                weights_only=True
+            )
+
+            privacy_engine.accountant.load_state_dict(
+                accountant_state
+            )
+
+            print("Previous privacy accountant restored.")
+
+        (
+            local_model,
+            optimizer,
+            local_loader
+        ) = privacy_engine.make_private(
+            module=local_model,
+            optimizer=optimizer,
+            data_loader=local_loader,
+            noise_multiplier=NOISE_MULTIPLIER,
+            max_grad_norm=MAX_GRAD_NORM,
+            grad_sample_mode="functorch"
+        )
+
+        print("Opacus DP-SGD enabled!")
+
+    # ---------------------------------------------
+    # 5. Local training
     # ---------------------------------------------
 
     for epoch in range(LOCAL_EPOCHS):
@@ -115,6 +173,9 @@ def train_client(
         total = 0
 
         for images, labels in local_loader:
+
+            if images.size(0) == 0:
+                continue
 
             images = images.to(DEVICE)
             labels = labels.to(DEVICE)
@@ -129,37 +190,83 @@ def train_client(
 
             optimizer.step()
 
-            batch_size = labels.size(0)
+            # Do not publish local training metrics
+            # from private client data in the DP experiment.
+            if not dp:
 
-            running_loss += loss.item() * batch_size
+                batch_size = labels.size(0)
 
-            predictions = torch.argmax(
-                outputs,
-                dim=1
+                running_loss += loss.item() * batch_size
+
+                predictions = torch.argmax(
+                    outputs,
+                    dim=1
+                )
+
+                correct += (
+                    predictions == labels
+                ).sum().item()
+
+                total += batch_size
+
+        if dp:
+
+            epsilon = privacy_engine.accountant.get_epsilon(
+                delta=DELTA
             )
 
-            correct += (
-                predictions == labels
-            ).sum().item()
+            print(
+                f"DP Local Epoch {epoch + 1}/{LOCAL_EPOCHS} | "
+                f"Epsilon: {epsilon:.4f} | "
+                f"Delta: {DELTA}"
+            )
 
-            total += batch_size
+        else:
 
-        epoch_loss = running_loss / total
-        epoch_accuracy = correct / total
+            if total > 0:
+
+                epoch_loss = running_loss / total
+                epoch_accuracy = correct / total
+
+                print(
+                    f"Local Epoch {epoch + 1}/{LOCAL_EPOCHS} | "
+                    f"Loss: {epoch_loss:.4f} | "
+                    f"Accuracy: {epoch_accuracy:.4f}"
+                )
+
+    # ---------------------------------------------
+    # 6. Save cumulative privacy accountant
+    # ---------------------------------------------
+
+    if dp:
+
+        torch.save(
+            privacy_engine.accountant.state_dict(),
+            accountant_path
+        )
+
+        final_epsilon = privacy_engine.accountant.get_epsilon(
+            delta=DELTA
+        )
 
         print(
-            f"Local Epoch {epoch + 1}/{LOCAL_EPOCHS} | "
-            f"Loss: {epoch_loss:.4f} | "
-            f"Accuracy: {epoch_accuracy:.4f}"
+            f"Hospital {client_id + 1} cumulative epsilon: "
+            f"{final_epsilon:.4f}"
         )
 
     # ---------------------------------------------
-    # 5. Return updated model parameters
+    # 7. Return updated model parameters
     # ---------------------------------------------
+
+    # Opacus wraps the model. Extract the original model.
+    if dp and hasattr(local_model, "_module"):
+        model_to_save = local_model._module
+    else:
+        model_to_save = local_model
 
     local_model_state = {
         key: value.detach().cpu().clone()
-        for key, value in local_model.state_dict().items()
+        for key, value in model_to_save.state_dict().items()
     }
 
     return local_model_state, num_samples
@@ -167,21 +274,20 @@ def train_client(
 
 if __name__ == "__main__":
 
-    # Simple standalone test using Hospital 1's IID data
-
     initial_model = get_model(num_classes=7)
 
     initial_state = copy.deepcopy(
         initial_model.state_dict()
     )
 
+    # Ordinary training smoke test
     updated_state, sample_count = train_client(
         client_id=0,
         global_model_state=initial_state,
-        partition_name="iid"
+        partition_name="iid",
+        dp=False
     )
 
     print("\nLocal client test completed!")
     print("Returned samples:", sample_count)
-    print("Number of model parameters:",
-          len(updated_state))
+    print("Number of state entries:", len(updated_state))

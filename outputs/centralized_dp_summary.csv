@@ -1,0 +1,2 @@
+experiment,accuracy,macro_f1,noise_multiplier,max_grad_norm,epsilon,delta
+Centralized DP,0.6614634146341464,0.11374884657327407,1.0,1.0,1.1046197599059548,1e-05
